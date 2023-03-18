@@ -1,0 +1,1018 @@
+[Fri Mar 17 15:28:19.389135 2023] [wsgi:info] [pid 8133:tid 1996124736] mod_wsgi (pid=8133): Attach interpreter ''.
+[Fri Mar 17 15:28:19.470599 2023] [wsgi:debug] [pid 8133:tid 1961935872] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.470927 2023] [wsgi:debug] [pid 8133:tid 1953543168] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.471077 2023] [wsgi:debug] [pid 8133:tid 1945150464] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.471192 2023] [wsgi:debug] [pid 8133:tid 1936757760] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.471307 2023] [wsgi:debug] [pid 8133:tid 1919972352] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.471394 2023] [wsgi:debug] [pid 8133:tid 1928365056] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.471523 2023] [wsgi:debug] [pid 8133:tid 1911579648] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.471630 2023] [wsgi:debug] [pid 8133:tid 1903186944] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.471727 2023] [wsgi:debug] [pid 8133:tid 1894794240] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.471956 2023] [wsgi:debug] [pid 8133:tid 1886401536] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.472122 2023] [wsgi:debug] [pid 8133:tid 1878008832] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.472258 2023] [wsgi:debug] [pid 8133:tid 1869616128] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.472423 2023] [wsgi:debug] [pid 8133:tid 1861223424] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.472605 2023] [wsgi:debug] [pid 8133:tid 1852830720] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:19.472769 2023] [wsgi:debug] [pid 8133:tid 1844438016] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8133): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 15:28:22.525595 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:28:22.525800 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:28:22.526155 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:28:22.526201 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:28:22.526372 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:28:22.526416 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:28:22.526560 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:28:22.526603 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:28:22.526798 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:28:22.526841 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:28:22.526973 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:28:22.527016 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:28:22.527157 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:28:22.527201 2023] [authz_core:debug] [pid 8135:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:58646] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:28:22.527339 2023] [autoindex:error] [pid 8135:tid 1968174080] [client 192.168.1.80:58646] AH01276: Cannot serve directory /home/pi/WOL_API/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Fri Mar 17 15:46:17.031808 2023] [wsgi:info] [pid 8133:tid 1996124736] mod_wsgi (pid=8133): Shutdown requested 'wolapi'.
+[Fri Mar 17 15:46:17.032600 2023] [wsgi:info] [pid 8133:tid 1996124736] mod_wsgi (pid=8133): Stopping process 'wolapi'.
+[Fri Mar 17 15:46:17.032617 2023] [wsgi:debug] [pid 8133:tid 1844438016] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.032706 2023] [wsgi:info] [pid 8133:tid 1996124736] mod_wsgi (pid=8133): Destroying interpreters.
+[Fri Mar 17 15:46:17.032768 2023] [wsgi:info] [pid 8133:tid 1996124736] mod_wsgi (pid=8133): Cleanup interpreter ''.
+[Fri Mar 17 15:46:17.033602 2023] [wsgi:debug] [pid 8133:tid 1852830720] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.033837 2023] [wsgi:debug] [pid 8133:tid 1861223424] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.034017 2023] [wsgi:debug] [pid 8133:tid 1869616128] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.034191 2023] [wsgi:debug] [pid 8133:tid 1878008832] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.034366 2023] [wsgi:debug] [pid 8133:tid 1886401536] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.034544 2023] [wsgi:debug] [pid 8133:tid 1894794240] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.034719 2023] [wsgi:debug] [pid 8133:tid 1903186944] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.034886 2023] [wsgi:debug] [pid 8133:tid 1911579648] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.035053 2023] [wsgi:debug] [pid 8133:tid 1928365056] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.036730 2023] [wsgi:debug] [pid 8133:tid 1919972352] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.037126 2023] [wsgi:debug] [pid 8133:tid 1936757760] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.037371 2023] [wsgi:debug] [pid 8133:tid 1945150464] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.037635 2023] [wsgi:debug] [pid 8133:tid 1953543168] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8133): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.096605 2023] [wsgi:info] [pid 8133:tid 1996124736] mod_wsgi (pid=8133): Terminating Python.
+[Fri Mar 17 15:46:17.145574 2023] [wsgi:info] [pid 8133:tid 1996124736] mod_wsgi (pid=8133): Python has shutdown.
+[Fri Mar 17 15:46:17.145806 2023] [wsgi:info] [pid 8133:tid 1996124736] mod_wsgi (pid=8133): Exiting process 'wolapi'.
+[Fri Mar 17 15:46:17.826418 2023] [wsgi:info] [pid 8816:tid 1995448896] mod_wsgi (pid=8816): Attach interpreter ''.
+[Fri Mar 17 15:46:17.911148 2023] [wsgi:debug] [pid 8816:tid 1961260032] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.911551 2023] [wsgi:debug] [pid 8816:tid 1952867328] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.911740 2023] [wsgi:debug] [pid 8816:tid 1936081920] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.911878 2023] [wsgi:debug] [pid 8816:tid 1944474624] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.912001 2023] [wsgi:debug] [pid 8816:tid 1927689216] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.912142 2023] [wsgi:debug] [pid 8816:tid 1910903808] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.912418 2023] [wsgi:debug] [pid 8816:tid 1894118400] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.912575 2023] [wsgi:debug] [pid 8816:tid 1885725696] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.912668 2023] [wsgi:debug] [pid 8816:tid 1902511104] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.912803 2023] [wsgi:debug] [pid 8816:tid 1919296512] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.912920 2023] [wsgi:debug] [pid 8816:tid 1877332992] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.913034 2023] [wsgi:debug] [pid 8816:tid 1860547584] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.913128 2023] [wsgi:debug] [pid 8816:tid 1868940288] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.913283 2023] [wsgi:debug] [pid 8816:tid 1852154880] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:17.913400 2023] [wsgi:debug] [pid 8816:tid 1843762176] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8816): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 15:46:19.757333 2023] [authz_core:debug] [pid 8818:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:40356] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:46:19.757537 2023] [authz_core:debug] [pid 8818:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:40356] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:46:19.758982 2023] [deflate:debug] [pid 8818:tid 1968174080] mod_deflate.c(856): [client 192.168.1.80:40356] AH01384: Zlib: Compressed 142 to 107 : URL /wolapi/index.html
+[Fri Mar 17 15:47:42.445433 2023] [wsgi:info] [pid 8816:tid 1995448896] mod_wsgi (pid=8816): Shutdown requested 'wolapi'.
+[Fri Mar 17 15:47:42.446237 2023] [wsgi:info] [pid 8816:tid 1995448896] mod_wsgi (pid=8816): Stopping process 'wolapi'.
+[Fri Mar 17 15:47:42.446288 2023] [wsgi:debug] [pid 8816:tid 1843762176] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.446358 2023] [wsgi:info] [pid 8816:tid 1995448896] mod_wsgi (pid=8816): Destroying interpreters.
+[Fri Mar 17 15:47:42.446481 2023] [wsgi:info] [pid 8816:tid 1995448896] mod_wsgi (pid=8816): Cleanup interpreter ''.
+[Fri Mar 17 15:47:42.447479 2023] [wsgi:debug] [pid 8816:tid 1852154880] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.447877 2023] [wsgi:debug] [pid 8816:tid 1868940288] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448211 2023] [wsgi:debug] [pid 8816:tid 1877332992] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448319 2023] [wsgi:debug] [pid 8816:tid 1919296512] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448391 2023] [wsgi:debug] [pid 8816:tid 1902511104] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448464 2023] [wsgi:debug] [pid 8816:tid 1885725696] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448532 2023] [wsgi:debug] [pid 8816:tid 1894118400] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448601 2023] [wsgi:debug] [pid 8816:tid 1910903808] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448669 2023] [wsgi:debug] [pid 8816:tid 1927689216] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448734 2023] [wsgi:debug] [pid 8816:tid 1944474624] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448804 2023] [wsgi:debug] [pid 8816:tid 1936081920] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448872 2023] [wsgi:debug] [pid 8816:tid 1952867328] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.448001 2023] [wsgi:debug] [pid 8816:tid 1860547584] src/server/mod_wsgi.c(9052): mod_wsgi (pid=8816): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:42.515800 2023] [wsgi:info] [pid 8816:tid 1995448896] mod_wsgi (pid=8816): Terminating Python.
+[Fri Mar 17 15:47:42.563063 2023] [wsgi:info] [pid 8816:tid 1995448896] mod_wsgi (pid=8816): Python has shutdown.
+[Fri Mar 17 15:47:42.563232 2023] [wsgi:info] [pid 8816:tid 1995448896] mod_wsgi (pid=8816): Exiting process 'wolapi'.
+[Fri Mar 17 15:47:43.237368 2023] [wsgi:info] [pid 8947:tid 1996411456] mod_wsgi (pid=8947): Attach interpreter ''.
+[Fri Mar 17 15:47:43.322433 2023] [wsgi:debug] [pid 8947:tid 1962222592] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.322799 2023] [wsgi:debug] [pid 8947:tid 1945437184] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.322944 2023] [wsgi:debug] [pid 8947:tid 1953829888] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.323069 2023] [wsgi:debug] [pid 8947:tid 1928651776] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.323159 2023] [wsgi:debug] [pid 8947:tid 1937044480] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.323289 2023] [wsgi:debug] [pid 8947:tid 1920259072] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.323503 2023] [wsgi:debug] [pid 8947:tid 1911866368] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.323718 2023] [wsgi:debug] [pid 8947:tid 1903473664] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.323835 2023] [wsgi:debug] [pid 8947:tid 1895080960] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.323970 2023] [wsgi:debug] [pid 8947:tid 1886688256] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.324139 2023] [wsgi:debug] [pid 8947:tid 1878295552] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.324293 2023] [wsgi:debug] [pid 8947:tid 1869902848] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.324456 2023] [wsgi:debug] [pid 8947:tid 1861510144] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.324672 2023] [wsgi:debug] [pid 8947:tid 1853117440] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 15:47:43.324864 2023] [wsgi:debug] [pid 8947:tid 1844724736] src/server/mod_wsgi.c(9071): mod_wsgi (pid=8947): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 15:48:25.866345 2023] [authz_core:debug] [pid 8948:tid 1969222656] mod_authz_core.c(820): [client 192.168.1.80:46040] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:48:25.866629 2023] [authz_core:debug] [pid 8948:tid 1969222656] mod_authz_core.c(820): [client 192.168.1.80:46040] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:48:25.868177 2023] [deflate:debug] [pid 8948:tid 1969222656] mod_deflate.c(856): [client 192.168.1.80:46040] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html
+[Fri Mar 17 15:48:32.562956 2023] [authz_core:debug] [pid 8948:tid 1929376768] mod_authz_core.c(820): [client 192.168.1.80:46054] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:48:32.563144 2023] [authz_core:debug] [pid 8948:tid 1929376768] mod_authz_core.c(820): [client 192.168.1.80:46054] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:48:32.564169 2023] [deflate:debug] [pid 8948:tid 1929376768] mod_deflate.c(856): [client 192.168.1.80:46054] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:48:38.647466 2023] [authz_core:debug] [pid 8948:tid 1897919488] mod_authz_core.c(820): [client 192.168.1.80:53272] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:48:38.647660 2023] [authz_core:debug] [pid 8948:tid 1897919488] mod_authz_core.c(820): [client 192.168.1.80:53272] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:48:38.651030 2023] [deflate:debug] [pid 8948:tid 1897919488] mod_deflate.c(856): [client 192.168.1.80:53272] AH01384: Zlib: Compressed 10701 to 3023 : URL /index.html
+[Fri Mar 17 15:48:38.692544 2023] [authz_core:debug] [pid 8948:tid 1889526784] mod_authz_core.c(820): [client 192.168.1.80:53272] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/
+[Fri Mar 17 15:48:38.692676 2023] [authz_core:debug] [pid 8948:tid 1889526784] mod_authz_core.c(820): [client 192.168.1.80:53272] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/
+[Fri Mar 17 15:48:41.571310 2023] [authz_core:debug] [pid 8948:tid 1881134080] mod_authz_core.c(820): [client 192.168.1.80:53272] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 15:48:41.571512 2023] [authz_core:debug] [pid 8948:tid 1881134080] mod_authz_core.c(820): [client 192.168.1.80:53272] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 15:48:41.572573 2023] [deflate:debug] [pid 8948:tid 1881134080] mod_deflate.c(856): [client 192.168.1.80:53272] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html
+[Fri Mar 17 15:48:50.245929 2023] [authz_core:debug] [pid 8949:tid 1969222656] mod_authz_core.c(820): [client 192.168.1.80:40574] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:48:50.246185 2023] [authz_core:debug] [pid 8949:tid 1969222656] mod_authz_core.c(820): [client 192.168.1.80:40574] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:48:50.247705 2023] [deflate:debug] [pid 8949:tid 1969222656] mod_deflate.c(856): [client 192.168.1.80:40574] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:00.097085 2023] [authz_core:debug] [pid 8948:tid 1855955968] mod_authz_core.c(820): [client 192.168.1.80:34828] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:00.097280 2023] [authz_core:debug] [pid 8948:tid 1855955968] mod_authz_core.c(820): [client 192.168.1.80:34828] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:00.098244 2023] [deflate:debug] [pid 8948:tid 1855955968] mod_deflate.c(856): [client 192.168.1.80:34828] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:11.103264 2023] [authz_core:debug] [pid 8948:tid 1830777856] mod_authz_core.c(820): [client 192.168.1.80:47074] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:11.103457 2023] [authz_core:debug] [pid 8948:tid 1830777856] mod_authz_core.c(820): [client 192.168.1.80:47074] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:11.104266 2023] [deflate:debug] [pid 8948:tid 1830777856] mod_deflate.c(856): [client 192.168.1.80:47074] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:23.524697 2023] [authz_core:debug] [pid 8948:tid 1805599744] mod_authz_core.c(820): [client 192.168.1.80:39296] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:23.524895 2023] [authz_core:debug] [pid 8948:tid 1805599744] mod_authz_core.c(820): [client 192.168.1.80:39296] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:23.525834 2023] [deflate:debug] [pid 8948:tid 1805599744] mod_deflate.c(856): [client 192.168.1.80:39296] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:36.349512 2023] [authz_core:debug] [pid 8948:tid 1780421632] mod_authz_core.c(820): [client 192.168.1.80:39284] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:36.349722 2023] [authz_core:debug] [pid 8948:tid 1780421632] mod_authz_core.c(820): [client 192.168.1.80:39284] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:36.350617 2023] [deflate:debug] [pid 8948:tid 1780421632] mod_deflate.c(856): [client 192.168.1.80:39284] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:50.745475 2023] [authz_core:debug] [pid 8949:tid 1950340096] mod_authz_core.c(820): [client 192.168.1.80:49126] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:50.745665 2023] [authz_core:debug] [pid 8949:tid 1950340096] mod_authz_core.c(820): [client 192.168.1.80:49126] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:49:50.746691 2023] [deflate:debug] [pid 8949:tid 1950340096] mod_deflate.c(856): [client 192.168.1.80:49126] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:06.082907 2023] [authz_core:debug] [pid 8949:tid 1907348480] mod_authz_core.c(820): [client 192.168.1.80:56952] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:06.083092 2023] [authz_core:debug] [pid 8949:tid 1907348480] mod_authz_core.c(820): [client 192.168.1.80:56952] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:06.084040 2023] [deflate:debug] [pid 8949:tid 1907348480] mod_deflate.c(856): [client 192.168.1.80:56952] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:23.670575 2023] [authz_core:debug] [pid 8949:tid 1882170368] mod_authz_core.c(820): [client 192.168.1.80:54096] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:23.670786 2023] [authz_core:debug] [pid 8949:tid 1882170368] mod_authz_core.c(820): [client 192.168.1.80:54096] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:23.671598 2023] [deflate:debug] [pid 8949:tid 1882170368] mod_deflate.c(856): [client 192.168.1.80:54096] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:42.362795 2023] [authz_core:debug] [pid 8949:tid 1856992256] mod_authz_core.c(820): [client 192.168.1.80:43128] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:42.363000 2023] [authz_core:debug] [pid 8949:tid 1856992256] mod_authz_core.c(820): [client 192.168.1.80:43128] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:50:42.363938 2023] [deflate:debug] [pid 8949:tid 1856992256] mod_deflate.c(856): [client 192.168.1.80:43128] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:03.269532 2023] [authz_core:debug] [pid 8949:tid 1831814144] mod_authz_core.c(820): [client 192.168.1.80:43894] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:03.269738 2023] [authz_core:debug] [pid 8949:tid 1831814144] mod_authz_core.c(820): [client 192.168.1.80:43894] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:03.270817 2023] [deflate:debug] [pid 8949:tid 1831814144] mod_deflate.c(856): [client 192.168.1.80:43894] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:26.361927 2023] [authz_core:debug] [pid 8949:tid 1806636032] mod_authz_core.c(820): [client 192.168.1.80:34420] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:26.362115 2023] [authz_core:debug] [pid 8949:tid 1806636032] mod_authz_core.c(820): [client 192.168.1.80:34420] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:26.363092 2023] [deflate:debug] [pid 8949:tid 1806636032] mod_deflate.c(856): [client 192.168.1.80:34420] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:51.665798 2023] [authz_core:debug] [pid 8948:tid 1755243520] mod_authz_core.c(820): [client 192.168.1.80:53986] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:51.666007 2023] [authz_core:debug] [pid 8948:tid 1755243520] mod_authz_core.c(820): [client 192.168.1.80:53986] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:51:51.666977 2023] [deflate:debug] [pid 8948:tid 1755243520] mod_deflate.c(856): [client 192.168.1.80:53986] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:52:19.168397 2023] [authz_core:debug] [pid 8948:tid 1950348288] mod_authz_core.c(820): [client 192.168.1.80:54012] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:52:19.168593 2023] [authz_core:debug] [pid 8948:tid 1950348288] mod_authz_core.c(820): [client 192.168.1.80:54012] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:52:19.169402 2023] [deflate:debug] [pid 8948:tid 1950348288] mod_deflate.c(856): [client 192.168.1.80:54012] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:52:49.945796 2023] [authz_core:debug] [pid 8948:tid 1918886912] mod_authz_core.c(820): [client 192.168.1.80:47854] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:52:49.946030 2023] [authz_core:debug] [pid 8948:tid 1918886912] mod_authz_core.c(820): [client 192.168.1.80:47854] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:52:49.946835 2023] [deflate:debug] [pid 8948:tid 1918886912] mod_deflate.c(856): [client 192.168.1.80:47854] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:53:23.267465 2023] [authz_core:debug] [pid 8949:tid 1781457920] mod_authz_core.c(820): [client 192.168.1.80:33124] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:53:23.267662 2023] [authz_core:debug] [pid 8949:tid 1781457920] mod_authz_core.c(820): [client 192.168.1.80:33124] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:53:23.268649 2023] [deflate:debug] [pid 8949:tid 1781457920] mod_deflate.c(856): [client 192.168.1.80:33124] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:54:00.376985 2023] [authz_core:debug] [pid 8948:tid 1889526784] mod_authz_core.c(820): [client 192.168.1.80:33138] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:54:00.377184 2023] [authz_core:debug] [pid 8948:tid 1889526784] mod_authz_core.c(820): [client 192.168.1.80:33138] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:54:00.378064 2023] [deflate:debug] [pid 8948:tid 1889526784] mod_deflate.c(856): [client 192.168.1.80:33138] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:54:41.050367 2023] [authz_core:debug] [pid 8948:tid 1872741376] mod_authz_core.c(820): [client 192.168.1.80:48732] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:54:41.050589 2023] [authz_core:debug] [pid 8948:tid 1872741376] mod_authz_core.c(820): [client 192.168.1.80:48732] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:54:41.051397 2023] [deflate:debug] [pid 8948:tid 1872741376] mod_deflate.c(856): [client 192.168.1.80:48732] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:55:26.178333 2023] [authz_core:debug] [pid 8948:tid 1855955968] mod_authz_core.c(820): [client 192.168.1.80:53172] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:55:26.178527 2023] [authz_core:debug] [pid 8948:tid 1855955968] mod_authz_core.c(820): [client 192.168.1.80:53172] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:55:26.179361 2023] [deflate:debug] [pid 8948:tid 1855955968] mod_deflate.c(856): [client 192.168.1.80:53172] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:56:15.710457 2023] [authz_core:debug] [pid 8949:tid 1764672512] mod_authz_core.c(820): [client 192.168.1.80:50588] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:56:15.710671 2023] [authz_core:debug] [pid 8949:tid 1764672512] mod_authz_core.c(820): [client 192.168.1.80:50588] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:56:15.711479 2023] [deflate:debug] [pid 8949:tid 1764672512] mod_deflate.c(856): [client 192.168.1.80:50588] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:57:09.857538 2023] [authz_core:debug] [pid 8948:tid 1839170560] mod_authz_core.c(820): [client 192.168.1.80:49562] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:57:09.857749 2023] [authz_core:debug] [pid 8948:tid 1839170560] mod_authz_core.c(820): [client 192.168.1.80:49562] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:57:09.858557 2023] [deflate:debug] [pid 8948:tid 1839170560] mod_deflate.c(856): [client 192.168.1.80:49562] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:58:08.947398 2023] [authz_core:debug] [pid 8948:tid 1813992448] mod_authz_core.c(820): [client 192.168.1.80:41678] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:58:08.947613 2023] [authz_core:debug] [pid 8948:tid 1813992448] mod_authz_core.c(820): [client 192.168.1.80:41678] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:58:08.948539 2023] [deflate:debug] [pid 8948:tid 1813992448] mod_deflate.c(856): [client 192.168.1.80:41678] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:59:13.861042 2023] [authz_core:debug] [pid 8949:tid 1873777664] mod_authz_core.c(820): [client 192.168.1.80:43728] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:59:13.861256 2023] [authz_core:debug] [pid 8949:tid 1873777664] mod_authz_core.c(820): [client 192.168.1.80:43728] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:59:13.862181 2023] [deflate:debug] [pid 8949:tid 1873777664] mod_deflate.c(856): [client 192.168.1.80:43728] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:00:25.340430 2023] [authz_core:debug] [pid 8949:tid 1856992256] mod_authz_core.c(820): [client 192.168.1.80:47014] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:00:25.340626 2023] [authz_core:debug] [pid 8949:tid 1856992256] mod_authz_core.c(820): [client 192.168.1.80:47014] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:00:25.341451 2023] [deflate:debug] [pid 8949:tid 1856992256] mod_deflate.c(856): [client 192.168.1.80:47014] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:01:44.561089 2023] [authz_core:debug] [pid 8949:tid 1840206848] mod_authz_core.c(820): [client 192.168.1.80:45658] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:01:44.561301 2023] [authz_core:debug] [pid 8949:tid 1840206848] mod_authz_core.c(820): [client 192.168.1.80:45658] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:01:44.562128 2023] [deflate:debug] [pid 8949:tid 1840206848] mod_deflate.c(856): [client 192.168.1.80:45658] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:03:11.422363 2023] [authz_core:debug] [pid 8949:tid 1823421440] mod_authz_core.c(820): [client 192.168.1.80:42292] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:03:11.422706 2023] [authz_core:debug] [pid 8949:tid 1823421440] mod_authz_core.c(820): [client 192.168.1.80:42292] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:03:11.423718 2023] [deflate:debug] [pid 8949:tid 1823421440] mod_deflate.c(856): [client 192.168.1.80:42292] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:04:47.131556 2023] [authz_core:debug] [pid 8948:tid 1797207040] mod_authz_core.c(820): [client 192.168.1.80:57994] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:04:47.131781 2023] [authz_core:debug] [pid 8948:tid 1797207040] mod_authz_core.c(820): [client 192.168.1.80:57994] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:04:47.132679 2023] [deflate:debug] [pid 8948:tid 1797207040] mod_deflate.c(856): [client 192.168.1.80:57994] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:06:32.736146 2023] [authz_core:debug] [pid 8949:tid 1806636032] mod_authz_core.c(820): [client 192.168.1.80:51060] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:06:32.736341 2023] [authz_core:debug] [pid 8949:tid 1806636032] mod_authz_core.c(820): [client 192.168.1.80:51060] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:06:32.737177 2023] [deflate:debug] [pid 8949:tid 1806636032] mod_deflate.c(856): [client 192.168.1.80:51060] AH01384: Zlib: Compressed 146 to 114 : URL /wolapi/index.html, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.288448 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.288658 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.288860 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.288913 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289069 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289120 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289259 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289309 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289451 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289501 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289698 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289743 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289889 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.289934 2023] [authz_core:debug] [pid 8949:tid 1789850624] mod_authz_core.c(820): [client 192.168.1.80:33074] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 16:08:28.290012 2023] [autoindex:error] [pid 8949:tid 1789850624] [client 192.168.1.80:33074] AH01276: Cannot serve directory /home/pi/WOL_API/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive, referer: http://192.168.1.84/wolapi/
+[Fri Mar 17 15:38:34.575687 2023] [wsgi:info] [pid 555:tid 1996022336] mod_wsgi (pid=555): Attach interpreter ''.
+[Fri Mar 17 15:38:34.703735 2023] [wsgi:debug] [pid 555:tid 1961833472] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.703911 2023] [wsgi:debug] [pid 555:tid 1953440768] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.704047 2023] [wsgi:debug] [pid 555:tid 1945048064] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.704201 2023] [wsgi:debug] [pid 555:tid 1936655360] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.704382 2023] [wsgi:debug] [pid 555:tid 1928262656] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.704524 2023] [wsgi:debug] [pid 555:tid 1919869952] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.704668 2023] [wsgi:debug] [pid 555:tid 1911477248] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.704808 2023] [wsgi:debug] [pid 555:tid 1903084544] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.704946 2023] [wsgi:debug] [pid 555:tid 1894691840] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.705105 2023] [wsgi:debug] [pid 555:tid 1886299136] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.705292 2023] [wsgi:debug] [pid 555:tid 1877906432] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.705468 2023] [wsgi:debug] [pid 555:tid 1869513728] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.705631 2023] [wsgi:debug] [pid 555:tid 1861121024] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.705782 2023] [wsgi:debug] [pid 555:tid 1852728320] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.705954 2023] [wsgi:debug] [pid 555:tid 1844335616] src/server/mod_wsgi.c(9071): mod_wsgi (pid=555): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.337946 2023] [wsgi:info] [pid 536:tid 1996390976] mod_wsgi (pid=536): Attach interpreter ''.
+[Fri Mar 17 15:38:34.430653 2023] [wsgi:debug] [pid 536:tid 1937024000] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.431376 2023] [wsgi:debug] [pid 536:tid 1928631296] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.431621 2023] [wsgi:debug] [pid 536:tid 1911845888] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.432130 2023] [wsgi:debug] [pid 536:tid 1878275072] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.432330 2023] [wsgi:debug] [pid 536:tid 1920238592] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.432619 2023] [wsgi:debug] [pid 536:tid 1962202112] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.432772 2023] [wsgi:debug] [pid 536:tid 1853096960] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.432868 2023] [wsgi:debug] [pid 536:tid 1861489664] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.432961 2023] [wsgi:debug] [pid 536:tid 1869882368] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.433075 2023] [wsgi:debug] [pid 536:tid 1886667776] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.433167 2023] [wsgi:debug] [pid 536:tid 1895060480] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.433256 2023] [wsgi:debug] [pid 536:tid 1903453184] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.433430 2023] [wsgi:debug] [pid 536:tid 1844704256] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.433637 2023] [wsgi:debug] [pid 536:tid 1945416704] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 15:38:34.433764 2023] [wsgi:debug] [pid 536:tid 1953809408] src/server/mod_wsgi.c(9071): mod_wsgi (pid=536): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.110094 2023] [wsgi:info] [pid 539:tid 1995776576] mod_wsgi (pid=539): Attach interpreter ''.
+[Fri Mar 17 16:15:36.220881 2023] [wsgi:debug] [pid 539:tid 1961587712] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.221288 2023] [wsgi:debug] [pid 539:tid 1944802304] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.223237 2023] [wsgi:debug] [pid 539:tid 1953195008] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.221616 2023] [wsgi:debug] [pid 539:tid 1928016896] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.225796 2023] [wsgi:debug] [pid 539:tid 1919624192] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.226012 2023] [wsgi:debug] [pid 539:tid 1894446080] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.226164 2023] [wsgi:debug] [pid 539:tid 1936409600] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.226286 2023] [wsgi:debug] [pid 539:tid 1911231488] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.226419 2023] [wsgi:debug] [pid 539:tid 1886053376] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.226623 2023] [wsgi:debug] [pid 539:tid 1902838784] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.226748 2023] [wsgi:debug] [pid 539:tid 1860875264] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.226883 2023] [wsgi:debug] [pid 539:tid 1877660672] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.226998 2023] [wsgi:debug] [pid 539:tid 1844089856] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.227144 2023] [wsgi:debug] [pid 539:tid 1869267968] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:15:36.227258 2023] [wsgi:debug] [pid 539:tid 1852482560] src/server/mod_wsgi.c(9071): mod_wsgi (pid=539): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.661928 2023] [wsgi:info] [pid 542:tid 1995469376] mod_wsgi (pid=542): Attach interpreter ''.
+[Fri Mar 17 16:17:56.759734 2023] [wsgi:debug] [pid 542:tid 1961280512] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.760178 2023] [wsgi:debug] [pid 542:tid 1952887808] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.761281 2023] [wsgi:debug] [pid 542:tid 1944495104] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.761529 2023] [wsgi:debug] [pid 542:tid 1877353472] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.761637 2023] [wsgi:debug] [pid 542:tid 1868960768] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.761729 2023] [wsgi:debug] [pid 542:tid 1860568064] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.761879 2023] [wsgi:debug] [pid 542:tid 1852175360] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.762030 2023] [wsgi:debug] [pid 542:tid 1843782656] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.762093 2023] [wsgi:debug] [pid 542:tid 1885746176] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.762206 2023] [wsgi:debug] [pid 542:tid 1894138880] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.762302 2023] [wsgi:debug] [pid 542:tid 1902531584] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.762396 2023] [wsgi:debug] [pid 542:tid 1910924288] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.762507 2023] [wsgi:debug] [pid 542:tid 1919316992] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.762602 2023] [wsgi:debug] [pid 542:tid 1936102400] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:17:56.768449 2023] [wsgi:debug] [pid 542:tid 1927709696] src/server/mod_wsgi.c(9071): mod_wsgi (pid=542): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.188809 2023] [wsgi:info] [pid 542:tid 1995469376] mod_wsgi (pid=542): Shutdown requested 'wolapi'.
+[Fri Mar 17 16:26:03.189805 2023] [wsgi:debug] [pid 542:tid 1936102400] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.189851 2023] [wsgi:info] [pid 542:tid 1995469376] mod_wsgi (pid=542): Stopping process 'wolapi'.
+[Fri Mar 17 16:26:03.190289 2023] [wsgi:info] [pid 542:tid 1995469376] mod_wsgi (pid=542): Destroying interpreters.
+[Fri Mar 17 16:26:03.190402 2023] [wsgi:info] [pid 542:tid 1995469376] mod_wsgi (pid=542): Cleanup interpreter ''.
+[Fri Mar 17 16:26:03.191565 2023] [wsgi:debug] [pid 542:tid 1919316992] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.191749 2023] [wsgi:debug] [pid 542:tid 1927709696] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.192044 2023] [wsgi:debug] [pid 542:tid 1910924288] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.192167 2023] [wsgi:debug] [pid 542:tid 1843782656] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.192413 2023] [wsgi:debug] [pid 542:tid 1902531584] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.192543 2023] [wsgi:debug] [pid 542:tid 1852175360] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.192728 2023] [wsgi:debug] [pid 542:tid 1894138880] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.192786 2023] [wsgi:debug] [pid 542:tid 1860568064] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.192896 2023] [wsgi:debug] [pid 542:tid 1885746176] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.192952 2023] [wsgi:debug] [pid 542:tid 1868960768] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.193116 2023] [wsgi:debug] [pid 542:tid 1877353472] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.193282 2023] [wsgi:debug] [pid 542:tid 1944495104] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.193455 2023] [wsgi:debug] [pid 542:tid 1952887808] src/server/mod_wsgi.c(9052): mod_wsgi (pid=542): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:26:03.269482 2023] [wsgi:info] [pid 542:tid 1995469376] mod_wsgi (pid=542): Terminating Python.
+[Fri Mar 17 16:26:03.318954 2023] [wsgi:info] [pid 542:tid 1995469376] mod_wsgi (pid=542): Python has shutdown.
+[Fri Mar 17 16:26:03.319191 2023] [wsgi:info] [pid 542:tid 1995469376] mod_wsgi (pid=542): Exiting process 'wolapi'.
+[Fri Mar 17 16:34:32.463296 2023] [wsgi:info] [pid 1432:tid 1995670080] mod_wsgi (pid=1432): Attach interpreter ''.
+[Fri Mar 17 16:34:32.546910 2023] [wsgi:debug] [pid 1432:tid 1961481216] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.547309 2023] [wsgi:debug] [pid 1432:tid 1953088512] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.547499 2023] [wsgi:debug] [pid 1432:tid 1944695808] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.547626 2023] [wsgi:debug] [pid 1432:tid 1936303104] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.547748 2023] [wsgi:debug] [pid 1432:tid 1927910400] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.547872 2023] [wsgi:debug] [pid 1432:tid 1911124992] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.547990 2023] [wsgi:debug] [pid 1432:tid 1919517696] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.548123 2023] [wsgi:debug] [pid 1432:tid 1902732288] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.548460 2023] [wsgi:debug] [pid 1432:tid 1885946880] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.548640 2023] [wsgi:debug] [pid 1432:tid 1877554176] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.548773 2023] [wsgi:debug] [pid 1432:tid 1894339584] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.548887 2023] [wsgi:debug] [pid 1432:tid 1869161472] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.548994 2023] [wsgi:debug] [pid 1432:tid 1860768768] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.549134 2023] [wsgi:debug] [pid 1432:tid 1852376064] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:32.549249 2023] [wsgi:debug] [pid 1432:tid 1843983360] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1432): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:34:41.564368 2023] [authz_core:debug] [pid 1433:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:56722] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 16:34:41.564578 2023] [authz_core:debug] [pid 1433:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:56722] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 16:41:00.148975 2023] [wsgi:info] [pid 1432:tid 1995670080] mod_wsgi (pid=1432): Shutdown requested 'wolapi'.
+[Fri Mar 17 16:41:00.149768 2023] [wsgi:info] [pid 1432:tid 1995670080] mod_wsgi (pid=1432): Stopping process 'wolapi'.
+[Fri Mar 17 16:41:00.149787 2023] [wsgi:debug] [pid 1432:tid 1843983360] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.149868 2023] [wsgi:info] [pid 1432:tid 1995670080] mod_wsgi (pid=1432): Destroying interpreters.
+[Fri Mar 17 16:41:00.149936 2023] [wsgi:info] [pid 1432:tid 1995670080] mod_wsgi (pid=1432): Cleanup interpreter ''.
+[Fri Mar 17 16:41:00.150763 2023] [wsgi:debug] [pid 1432:tid 1852376064] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.151017 2023] [wsgi:debug] [pid 1432:tid 1860768768] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.151202 2023] [wsgi:debug] [pid 1432:tid 1869161472] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.151372 2023] [wsgi:debug] [pid 1432:tid 1894339584] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.151551 2023] [wsgi:debug] [pid 1432:tid 1877554176] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.151727 2023] [wsgi:debug] [pid 1432:tid 1885946880] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.151898 2023] [wsgi:debug] [pid 1432:tid 1902732288] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.152070 2023] [wsgi:debug] [pid 1432:tid 1919517696] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.152237 2023] [wsgi:debug] [pid 1432:tid 1911124992] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.152403 2023] [wsgi:debug] [pid 1432:tid 1927910400] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.152571 2023] [wsgi:debug] [pid 1432:tid 1936303104] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.152827 2023] [wsgi:debug] [pid 1432:tid 1944695808] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.152991 2023] [wsgi:debug] [pid 1432:tid 1953088512] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1432): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:00.215742 2023] [wsgi:info] [pid 1432:tid 1995670080] mod_wsgi (pid=1432): Terminating Python.
+[Fri Mar 17 16:41:00.263733 2023] [wsgi:info] [pid 1432:tid 1995670080] mod_wsgi (pid=1432): Python has shutdown.
+[Fri Mar 17 16:41:00.263941 2023] [wsgi:info] [pid 1432:tid 1995670080] mod_wsgi (pid=1432): Exiting process 'wolapi'.
+[Fri Mar 17 16:41:00.941167 2023] [wsgi:info] [pid 1838:tid 1996100160] mod_wsgi (pid=1838): Attach interpreter ''.
+[Fri Mar 17 16:41:01.023267 2023] [wsgi:debug] [pid 1838:tid 1961903104] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.023753 2023] [wsgi:debug] [pid 1838:tid 1936724992] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.023923 2023] [wsgi:debug] [pid 1838:tid 1953510400] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.024062 2023] [wsgi:debug] [pid 1838:tid 1945117696] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.024222 2023] [wsgi:debug] [pid 1838:tid 1928332288] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.024445 2023] [wsgi:debug] [pid 1838:tid 1919939584] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.024603 2023] [wsgi:debug] [pid 1838:tid 1911546880] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.025382 2023] [wsgi:debug] [pid 1838:tid 1877976064] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.025540 2023] [wsgi:debug] [pid 1838:tid 1869583360] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.025624 2023] [wsgi:debug] [pid 1838:tid 1861190656] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.025789 2023] [wsgi:debug] [pid 1838:tid 1903154176] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.025883 2023] [wsgi:debug] [pid 1838:tid 1852797952] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.025986 2023] [wsgi:debug] [pid 1838:tid 1844405248] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.026085 2023] [wsgi:debug] [pid 1838:tid 1894761472] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:01.026228 2023] [wsgi:debug] [pid 1838:tid 1886368768] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1838): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:41:05.931992 2023] [authz_core:debug] [pid 1839:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:52434] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 16:41:05.932263 2023] [authz_core:debug] [pid 1839:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:52434] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 16:41:05.932834 2023] [wsgi:error] [pid 1839:tid 1968174080] [client 192.168.1.80:52434] Options ExecCGI is off in this directory: /home/pi/WOL_API/wsgi.py
+[Fri Mar 17 16:46:34.183381 2023] [wsgi:info] [pid 1838:tid 1996100160] mod_wsgi (pid=1838): Shutdown requested 'wolapi'.
+[Fri Mar 17 16:46:34.184202 2023] [wsgi:info] [pid 1838:tid 1996100160] mod_wsgi (pid=1838): Stopping process 'wolapi'.
+[Fri Mar 17 16:46:34.184396 2023] [wsgi:info] [pid 1838:tid 1996100160] mod_wsgi (pid=1838): Destroying interpreters.
+[Fri Mar 17 16:46:34.184439 2023] [wsgi:info] [pid 1838:tid 1996100160] mod_wsgi (pid=1838): Cleanup interpreter ''.
+[Fri Mar 17 16:46:34.184820 2023] [wsgi:debug] [pid 1838:tid 1844405248] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.187528 2023] [wsgi:debug] [pid 1838:tid 1886368768] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.188386 2023] [wsgi:debug] [pid 1838:tid 1894761472] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.188804 2023] [wsgi:debug] [pid 1838:tid 1852797952] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.189065 2023] [wsgi:debug] [pid 1838:tid 1903154176] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.189278 2023] [wsgi:debug] [pid 1838:tid 1861190656] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.189458 2023] [wsgi:debug] [pid 1838:tid 1869583360] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.189633 2023] [wsgi:debug] [pid 1838:tid 1877976064] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.189824 2023] [wsgi:debug] [pid 1838:tid 1911546880] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.190004 2023] [wsgi:debug] [pid 1838:tid 1919939584] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.190176 2023] [wsgi:debug] [pid 1838:tid 1928332288] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.190354 2023] [wsgi:debug] [pid 1838:tid 1945117696] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.190535 2023] [wsgi:debug] [pid 1838:tid 1953510400] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.190714 2023] [wsgi:debug] [pid 1838:tid 1936724992] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1838): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:34.249974 2023] [wsgi:info] [pid 1838:tid 1996100160] mod_wsgi (pid=1838): Terminating Python.
+[Fri Mar 17 16:46:34.297413 2023] [wsgi:info] [pid 1838:tid 1996100160] mod_wsgi (pid=1838): Python has shutdown.
+[Fri Mar 17 16:46:34.297599 2023] [wsgi:info] [pid 1838:tid 1996100160] mod_wsgi (pid=1838): Exiting process 'wolapi'.
+[Fri Mar 17 16:46:34.968430 2023] [wsgi:info] [pid 2038:tid 1995772480] mod_wsgi (pid=2038): Attach interpreter ''.
+[Fri Mar 17 16:46:35.049263 2023] [wsgi:debug] [pid 2038:tid 1961575424] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.049697 2023] [wsgi:debug] [pid 2038:tid 1953182720] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.049911 2023] [wsgi:debug] [pid 2038:tid 1944790016] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.050040 2023] [wsgi:debug] [pid 2038:tid 1936397312] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.050163 2023] [wsgi:debug] [pid 2038:tid 1911219200] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.050251 2023] [wsgi:debug] [pid 2038:tid 1928004608] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.050467 2023] [wsgi:debug] [pid 2038:tid 1919611904] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.050582 2023] [wsgi:debug] [pid 2038:tid 1902826496] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.050690 2023] [wsgi:debug] [pid 2038:tid 1894433792] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.050813 2023] [wsgi:debug] [pid 2038:tid 1886041088] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.050936 2023] [wsgi:debug] [pid 2038:tid 1869255680] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.051032 2023] [wsgi:debug] [pid 2038:tid 1877648384] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.051147 2023] [wsgi:debug] [pid 2038:tid 1860862976] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.051312 2023] [wsgi:debug] [pid 2038:tid 1852470272] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:35.051477 2023] [wsgi:debug] [pid 2038:tid 1844077568] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2038): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:46:46.957598 2023] [authz_core:debug] [pid 2040:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:48840] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 16:46:46.957828 2023] [authz_core:debug] [pid 2040:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:48840] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 16:46:46.959773 2023] [wsgi:info] [pid 2038:tid 1961575424] [remote 192.168.1.80:48840] mod_wsgi (pid=2038, process='wolapi', application=''): Loading Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:46:47.051797 2023] [wsgi:error] [pid 2038:tid 1961575424] [remote 192.168.1.80:48840] mod_wsgi (pid=2038): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:46:47.052128 2023] [wsgi:error] [pid 2038:tid 1961575424] [remote 192.168.1.80:48840] mod_wsgi (pid=2038): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:46:47.053467 2023] [wsgi:error] [pid 2038:tid 1961575424] [remote 192.168.1.80:48840] Traceback (most recent call last):
+[Fri Mar 17 16:46:47.053662 2023] [wsgi:error] [pid 2038:tid 1961575424] [remote 192.168.1.80:48840]   File "/home/pi/WOL_API/wsgi.py", line 6, in <module>
+[Fri Mar 17 16:46:47.053715 2023] [wsgi:error] [pid 2038:tid 1961575424] [remote 192.168.1.80:48840]     logging.basicConfig(stream=sys.stderr)
+[Fri Mar 17 16:46:47.053873 2023] [wsgi:error] [pid 2038:tid 1961575424] [remote 192.168.1.80:48840] NameError: name 'sys' is not defined
+[Fri Mar 17 16:50:01.754983 2023] [wsgi:info] [pid 2038:tid 1995772480] mod_wsgi (pid=2038): Shutdown requested 'wolapi'.
+[Fri Mar 17 16:50:01.755728 2023] [wsgi:info] [pid 2038:tid 1995772480] mod_wsgi (pid=2038): Stopping process 'wolapi'.
+[Fri Mar 17 16:50:01.755759 2023] [wsgi:debug] [pid 2038:tid 1961575424] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.755837 2023] [wsgi:info] [pid 2038:tid 1995772480] mod_wsgi (pid=2038): Destroying interpreters.
+[Fri Mar 17 16:50:01.755907 2023] [wsgi:info] [pid 2038:tid 1995772480] mod_wsgi (pid=2038): Cleanup interpreter ''.
+[Fri Mar 17 16:50:01.756458 2023] [wsgi:info] [pid 2038:tid 1995772480] mod_wsgi (pid=2038): Terminating Python.
+[Fri Mar 17 16:50:01.756805 2023] [wsgi:debug] [pid 2038:tid 1852470272] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.757079 2023] [wsgi:debug] [pid 2038:tid 1860862976] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.757456 2023] [wsgi:debug] [pid 2038:tid 1877648384] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.757671 2023] [wsgi:debug] [pid 2038:tid 1869255680] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.757854 2023] [wsgi:debug] [pid 2038:tid 1886041088] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.758036 2023] [wsgi:debug] [pid 2038:tid 1894433792] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.758212 2023] [wsgi:debug] [pid 2038:tid 1902826496] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.758385 2023] [wsgi:debug] [pid 2038:tid 1919611904] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.758557 2023] [wsgi:debug] [pid 2038:tid 1928004608] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.758724 2023] [wsgi:debug] [pid 2038:tid 1911219200] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.758893 2023] [wsgi:debug] [pid 2038:tid 1936397312] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.759072 2023] [wsgi:debug] [pid 2038:tid 1944790016] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.759253 2023] [wsgi:debug] [pid 2038:tid 1953182720] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2038): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:01.804978 2023] [wsgi:info] [pid 2038:tid 1995772480] mod_wsgi (pid=2038): Python has shutdown.
+[Fri Mar 17 16:50:01.805194 2023] [wsgi:info] [pid 2038:tid 1995772480] mod_wsgi (pid=2038): Exiting process 'wolapi'.
+[Fri Mar 17 16:50:02.530107 2023] [wsgi:info] [pid 2184:tid 1995727424] mod_wsgi (pid=2184): Attach interpreter ''.
+[Fri Mar 17 16:50:02.612182 2023] [wsgi:debug] [pid 2184:tid 1961530368] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.612569 2023] [wsgi:debug] [pid 2184:tid 1953137664] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.612762 2023] [wsgi:debug] [pid 2184:tid 1944744960] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.612891 2023] [wsgi:debug] [pid 2184:tid 1936352256] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.613011 2023] [wsgi:debug] [pid 2184:tid 1927959552] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.613143 2023] [wsgi:debug] [pid 2184:tid 1919566848] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.613248 2023] [wsgi:debug] [pid 2184:tid 1911174144] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.613362 2023] [wsgi:debug] [pid 2184:tid 1902781440] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.613469 2023] [wsgi:debug] [pid 2184:tid 1894388736] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.613589 2023] [wsgi:debug] [pid 2184:tid 1885996032] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.613771 2023] [wsgi:debug] [pid 2184:tid 1877603328] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.613993 2023] [wsgi:debug] [pid 2184:tid 1869210624] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.614155 2023] [wsgi:debug] [pid 2184:tid 1860817920] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.614272 2023] [wsgi:debug] [pid 2184:tid 1852425216] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:02.614381 2023] [wsgi:debug] [pid 2184:tid 1844032512] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2184): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:50:27.554224 2023] [authz_core:debug] [pid 2186:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:51224] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 16:50:27.554447 2023] [authz_core:debug] [pid 2186:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:51224] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 16:50:27.556312 2023] [wsgi:info] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224] mod_wsgi (pid=2184, process='wolapi', application=''): Loading Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:50:27.654330 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224] mod_wsgi (pid=2184): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:50:27.654602 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224] mod_wsgi (pid=2184): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:50:27.656220 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224] Traceback (most recent call last):
+[Fri Mar 17 16:50:27.656447 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224]   File "/home/pi/WOL_API/wsgi.py", line 9, in <module>
+[Fri Mar 17 16:50:27.656502 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224]     exec(file_.read(), dict(__file__=activate_this))
+[Fri Mar 17 16:50:27.656638 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224]   File "<string>", line 4
+[Fri Mar 17 16:50:27.656737 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224]     deactivate () {
+[Fri Mar 17 16:50:27.656919 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224]                   ^
+[Fri Mar 17 16:50:27.657015 2023] [wsgi:error] [pid 2184:tid 1961530368] [remote 192.168.1.80:51224] SyntaxError: invalid syntax
+[Fri Mar 17 16:54:34.909153 2023] [wsgi:info] [pid 2184:tid 1995727424] mod_wsgi (pid=2184): Shutdown requested 'wolapi'.
+[Fri Mar 17 16:54:34.909923 2023] [wsgi:info] [pid 2184:tid 1995727424] mod_wsgi (pid=2184): Stopping process 'wolapi'.
+[Fri Mar 17 16:54:34.910053 2023] [wsgi:info] [pid 2184:tid 1995727424] mod_wsgi (pid=2184): Destroying interpreters.
+[Fri Mar 17 16:54:34.910103 2023] [wsgi:info] [pid 2184:tid 1995727424] mod_wsgi (pid=2184): Cleanup interpreter ''.
+[Fri Mar 17 16:54:34.910606 2023] [wsgi:info] [pid 2184:tid 1995727424] mod_wsgi (pid=2184): Terminating Python.
+[Fri Mar 17 16:54:34.924794 2023] [wsgi:debug] [pid 2184:tid 1961530368] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.925897 2023] [wsgi:debug] [pid 2184:tid 1852425216] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.926179 2023] [wsgi:debug] [pid 2184:tid 1860817920] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.926369 2023] [wsgi:debug] [pid 2184:tid 1869210624] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.926541 2023] [wsgi:debug] [pid 2184:tid 1877603328] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.926711 2023] [wsgi:debug] [pid 2184:tid 1885996032] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.926992 2023] [wsgi:debug] [pid 2184:tid 1894388736] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.927167 2023] [wsgi:debug] [pid 2184:tid 1902781440] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.927342 2023] [wsgi:debug] [pid 2184:tid 1911174144] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.927511 2023] [wsgi:debug] [pid 2184:tid 1919566848] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.927681 2023] [wsgi:debug] [pid 2184:tid 1927959552] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.927850 2023] [wsgi:debug] [pid 2184:tid 1936352256] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.928022 2023] [wsgi:debug] [pid 2184:tid 1944744960] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.928195 2023] [wsgi:debug] [pid 2184:tid 1953137664] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2184): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:34.962331 2023] [wsgi:info] [pid 2184:tid 1995727424] mod_wsgi (pid=2184): Python has shutdown.
+[Fri Mar 17 16:54:34.962522 2023] [wsgi:info] [pid 2184:tid 1995727424] mod_wsgi (pid=2184): Exiting process 'wolapi'.
+[Fri Mar 17 16:54:35.697234 2023] [wsgi:info] [pid 2348:tid 1995858496] mod_wsgi (pid=2348): Attach interpreter ''.
+[Fri Mar 17 16:54:35.779824 2023] [wsgi:debug] [pid 2348:tid 1961661440] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.780225 2023] [wsgi:debug] [pid 2348:tid 1953268736] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.780469 2023] [wsgi:debug] [pid 2348:tid 1928090624] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.780578 2023] [wsgi:debug] [pid 2348:tid 1944876032] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.780707 2023] [wsgi:debug] [pid 2348:tid 1936483328] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.780828 2023] [wsgi:debug] [pid 2348:tid 1919697920] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.780953 2023] [wsgi:debug] [pid 2348:tid 1911305216] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.781075 2023] [wsgi:debug] [pid 2348:tid 1902912512] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.781252 2023] [wsgi:debug] [pid 2348:tid 1894519808] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.781463 2023] [wsgi:debug] [pid 2348:tid 1886127104] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.781599 2023] [wsgi:debug] [pid 2348:tid 1877734400] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.781725 2023] [wsgi:debug] [pid 2348:tid 1860948992] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.781843 2023] [wsgi:debug] [pid 2348:tid 1869341696] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.782003 2023] [wsgi:debug] [pid 2348:tid 1852556288] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:54:35.782116 2023] [wsgi:debug] [pid 2348:tid 1844163584] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2348): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:55:05.707832 2023] [authz_core:debug] [pid 2349:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:52896] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 16:55:05.708399 2023] [authz_core:debug] [pid 2349:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:52896] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 16:55:05.710890 2023] [wsgi:info] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896] mod_wsgi (pid=2348, process='wolapi', application=''): Loading Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:55:05.807829 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896] mod_wsgi (pid=2348): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:55:05.808086 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896] mod_wsgi (pid=2348): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 16:55:05.809355 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896] Traceback (most recent call last):
+[Fri Mar 17 16:55:05.809542 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896]   File "/home/pi/WOL_API/wsgi.py", line 8, in <module>
+[Fri Mar 17 16:55:05.809595 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896]     exec(file_.read(), dict(__file__=activate_this))
+[Fri Mar 17 16:55:05.809730 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896]   File "<string>", line 4
+[Fri Mar 17 16:55:05.809826 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896]     deactivate () {
+[Fri Mar 17 16:55:05.810004 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896]                   ^
+[Fri Mar 17 16:55:05.810098 2023] [wsgi:error] [pid 2348:tid 1961661440] [remote 192.168.1.80:52896] SyntaxError: invalid syntax
+[Fri Mar 17 17:06:53.440455 2023] [wsgi:info] [pid 2348:tid 1995858496] mod_wsgi (pid=2348): Shutdown requested 'wolapi'.
+[Fri Mar 17 17:06:53.441219 2023] [wsgi:info] [pid 2348:tid 1995858496] mod_wsgi (pid=2348): Stopping process 'wolapi'.
+[Fri Mar 17 17:06:53.441250 2023] [wsgi:debug] [pid 2348:tid 1852556288] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.441319 2023] [wsgi:info] [pid 2348:tid 1995858496] mod_wsgi (pid=2348): Destroying interpreters.
+[Fri Mar 17 17:06:53.441387 2023] [wsgi:info] [pid 2348:tid 1995858496] mod_wsgi (pid=2348): Cleanup interpreter ''.
+[Fri Mar 17 17:06:53.441962 2023] [wsgi:info] [pid 2348:tid 1995858496] mod_wsgi (pid=2348): Terminating Python.
+[Fri Mar 17 17:06:53.442493 2023] [wsgi:debug] [pid 2348:tid 1869341696] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.442798 2023] [wsgi:debug] [pid 2348:tid 1860948992] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.443000 2023] [wsgi:debug] [pid 2348:tid 1877734400] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.443185 2023] [wsgi:debug] [pid 2348:tid 1886127104] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.443361 2023] [wsgi:debug] [pid 2348:tid 1894519808] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.443529 2023] [wsgi:debug] [pid 2348:tid 1902912512] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.443701 2023] [wsgi:debug] [pid 2348:tid 1911305216] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.443971 2023] [wsgi:debug] [pid 2348:tid 1919697920] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.444140 2023] [wsgi:debug] [pid 2348:tid 1936483328] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.444310 2023] [wsgi:debug] [pid 2348:tid 1944876032] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.444478 2023] [wsgi:debug] [pid 2348:tid 1928090624] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.444643 2023] [wsgi:debug] [pid 2348:tid 1953268736] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.454754 2023] [wsgi:debug] [pid 2348:tid 1961661440] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2348): Exiting thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:53.486453 2023] [wsgi:info] [pid 2348:tid 1995858496] mod_wsgi (pid=2348): Python has shutdown.
+[Fri Mar 17 17:06:53.486662 2023] [wsgi:info] [pid 2348:tid 1995858496] mod_wsgi (pid=2348): Exiting process 'wolapi'.
+[Fri Mar 17 17:06:54.252075 2023] [wsgi:info] [pid 2633:tid 1995567680] mod_wsgi (pid=2633): Attach interpreter ''.
+[Fri Mar 17 17:06:54.334738 2023] [wsgi:debug] [pid 2633:tid 1961370624] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.335502 2023] [wsgi:debug] [pid 2633:tid 1927799808] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.335848 2023] [wsgi:debug] [pid 2633:tid 1911014400] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.336092 2023] [wsgi:debug] [pid 2633:tid 1894228992] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.336204 2023] [wsgi:debug] [pid 2633:tid 1936192512] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.336330 2023] [wsgi:debug] [pid 2633:tid 1885836288] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.336445 2023] [wsgi:debug] [pid 2633:tid 1877443584] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.336600 2023] [wsgi:debug] [pid 2633:tid 1869050880] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.336714 2023] [wsgi:debug] [pid 2633:tid 1860658176] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.336838 2023] [wsgi:debug] [pid 2633:tid 1852265472] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.336935 2023] [wsgi:debug] [pid 2633:tid 1944585216] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.337055 2023] [wsgi:debug] [pid 2633:tid 1843872768] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.337126 2023] [wsgi:debug] [pid 2633:tid 1952977920] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.337180 2023] [wsgi:debug] [pid 2633:tid 1919407104] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:06:54.337264 2023] [wsgi:debug] [pid 2633:tid 1902621696] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2633): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.010979 2023] [wsgi:info] [pid 2633:tid 1995567680] mod_wsgi (pid=2633): Shutdown requested 'wolapi'.
+[Fri Mar 17 17:08:30.011902 2023] [wsgi:info] [pid 2633:tid 1995567680] mod_wsgi (pid=2633): Stopping process 'wolapi'.
+[Fri Mar 17 17:08:30.011919 2023] [wsgi:debug] [pid 2633:tid 1919407104] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.012095 2023] [wsgi:info] [pid 2633:tid 1995567680] mod_wsgi (pid=2633): Destroying interpreters.
+[Fri Mar 17 17:08:30.012151 2023] [wsgi:info] [pid 2633:tid 1995567680] mod_wsgi (pid=2633): Cleanup interpreter ''.
+[Fri Mar 17 17:08:30.013065 2023] [wsgi:debug] [pid 2633:tid 1843872768] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.013465 2023] [wsgi:debug] [pid 2633:tid 1944585216] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.013766 2023] [wsgi:debug] [pid 2633:tid 1852265472] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.014892 2023] [wsgi:debug] [pid 2633:tid 1952977920] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.015212 2023] [wsgi:debug] [pid 2633:tid 1902621696] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.015930 2023] [wsgi:debug] [pid 2633:tid 1911014400] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.016111 2023] [wsgi:debug] [pid 2633:tid 1894228992] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.016205 2023] [wsgi:debug] [pid 2633:tid 1936192512] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.016292 2023] [wsgi:debug] [pid 2633:tid 1885836288] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.016392 2023] [wsgi:debug] [pid 2633:tid 1860658176] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.016426 2023] [wsgi:debug] [pid 2633:tid 1927799808] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.016491 2023] [wsgi:debug] [pid 2633:tid 1869050880] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.016583 2023] [wsgi:debug] [pid 2633:tid 1877443584] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2633): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.078288 2023] [wsgi:info] [pid 2633:tid 1995567680] mod_wsgi (pid=2633): Terminating Python.
+[Fri Mar 17 17:08:30.125128 2023] [wsgi:info] [pid 2633:tid 1995567680] mod_wsgi (pid=2633): Python has shutdown.
+[Fri Mar 17 17:08:30.125349 2023] [wsgi:info] [pid 2633:tid 1995567680] mod_wsgi (pid=2633): Exiting process 'wolapi'.
+[Fri Mar 17 17:08:30.792752 2023] [wsgi:info] [pid 2825:tid 1995604544] mod_wsgi (pid=2825): Attach interpreter ''.
+[Fri Mar 17 17:08:30.875325 2023] [wsgi:debug] [pid 2825:tid 1961407488] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.875709 2023] [wsgi:debug] [pid 2825:tid 1953014784] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.875900 2023] [wsgi:debug] [pid 2825:tid 1944622080] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.876024 2023] [wsgi:debug] [pid 2825:tid 1936229376] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.876136 2023] [wsgi:debug] [pid 2825:tid 1927836672] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.876254 2023] [wsgi:debug] [pid 2825:tid 1911051264] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.876439 2023] [wsgi:debug] [pid 2825:tid 1919443968] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.876574 2023] [wsgi:debug] [pid 2825:tid 1894265856] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.876662 2023] [wsgi:debug] [pid 2825:tid 1902658560] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.876778 2023] [wsgi:debug] [pid 2825:tid 1885873152] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.876886 2023] [wsgi:debug] [pid 2825:tid 1877480448] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.877072 2023] [wsgi:debug] [pid 2825:tid 1869087744] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.877201 2023] [wsgi:debug] [pid 2825:tid 1860695040] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.877405 2023] [wsgi:debug] [pid 2825:tid 1852302336] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:08:30.877612 2023] [wsgi:debug] [pid 2825:tid 1843909632] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2825): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.562963 2023] [wsgi:info] [pid 2825:tid 1995604544] mod_wsgi (pid=2825): Shutdown requested 'wolapi'.
+[Fri Mar 17 17:10:38.563826 2023] [wsgi:info] [pid 2825:tid 1995604544] mod_wsgi (pid=2825): Stopping process 'wolapi'.
+[Fri Mar 17 17:10:38.563879 2023] [wsgi:debug] [pid 2825:tid 1843909632] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.563959 2023] [wsgi:info] [pid 2825:tid 1995604544] mod_wsgi (pid=2825): Destroying interpreters.
+[Fri Mar 17 17:10:38.564024 2023] [wsgi:info] [pid 2825:tid 1995604544] mod_wsgi (pid=2825): Cleanup interpreter ''.
+[Fri Mar 17 17:10:38.565010 2023] [wsgi:debug] [pid 2825:tid 1852302336] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.565342 2023] [wsgi:debug] [pid 2825:tid 1860695040] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.565550 2023] [wsgi:debug] [pid 2825:tid 1869087744] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.565739 2023] [wsgi:debug] [pid 2825:tid 1877480448] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.565930 2023] [wsgi:debug] [pid 2825:tid 1885873152] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.566131 2023] [wsgi:debug] [pid 2825:tid 1902658560] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.566325 2023] [wsgi:debug] [pid 2825:tid 1894265856] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.566503 2023] [wsgi:debug] [pid 2825:tid 1919443968] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.566683 2023] [wsgi:debug] [pid 2825:tid 1911051264] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.566859 2023] [wsgi:debug] [pid 2825:tid 1927836672] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.567036 2023] [wsgi:debug] [pid 2825:tid 1936229376] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.567228 2023] [wsgi:debug] [pid 2825:tid 1944622080] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.567545 2023] [wsgi:debug] [pid 2825:tid 1953014784] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2825): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:38.631042 2023] [wsgi:info] [pid 2825:tid 1995604544] mod_wsgi (pid=2825): Terminating Python.
+[Fri Mar 17 17:10:38.697256 2023] [wsgi:info] [pid 2825:tid 1995604544] mod_wsgi (pid=2825): Python has shutdown.
+[Fri Mar 17 17:10:38.697437 2023] [wsgi:info] [pid 2825:tid 1995604544] mod_wsgi (pid=2825): Exiting process 'wolapi'.
+[Fri Mar 17 17:10:39.355295 2023] [wsgi:info] [pid 3014:tid 1995801152] mod_wsgi (pid=3014): Attach interpreter ''.
+[Fri Mar 17 17:10:39.438437 2023] [wsgi:debug] [pid 3014:tid 1961604096] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.438798 2023] [wsgi:debug] [pid 3014:tid 1944818688] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.438960 2023] [wsgi:debug] [pid 3014:tid 1953211392] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.439099 2023] [wsgi:debug] [pid 3014:tid 1928033280] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.439192 2023] [wsgi:debug] [pid 3014:tid 1936425984] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.439333 2023] [wsgi:debug] [pid 3014:tid 1919640576] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.439448 2023] [wsgi:debug] [pid 3014:tid 1911247872] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.439635 2023] [wsgi:debug] [pid 3014:tid 1902855168] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.439791 2023] [wsgi:debug] [pid 3014:tid 1894462464] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.439957 2023] [wsgi:debug] [pid 3014:tid 1886069760] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.440114 2023] [wsgi:debug] [pid 3014:tid 1877677056] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.440266 2023] [wsgi:debug] [pid 3014:tid 1869284352] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.440431 2023] [wsgi:debug] [pid 3014:tid 1860891648] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.440609 2023] [wsgi:debug] [pid 3014:tid 1852498944] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:10:39.440761 2023] [wsgi:debug] [pid 3014:tid 1844106240] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3014): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.460154 2023] [wsgi:info] [pid 537:tid 1996362304] mod_wsgi (pid=537): Attach interpreter ''.
+[Fri Mar 17 16:52:53.590550 2023] [wsgi:debug] [pid 537:tid 1928594432] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.590887 2023] [wsgi:debug] [pid 537:tid 1920201728] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.591044 2023] [wsgi:debug] [pid 537:tid 1903416320] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.591233 2023] [wsgi:debug] [pid 537:tid 1895023616] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.591350 2023] [wsgi:debug] [pid 537:tid 1953772544] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.591544 2023] [wsgi:debug] [pid 537:tid 1886630912] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.591684 2023] [wsgi:debug] [pid 537:tid 1869845504] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.591774 2023] [wsgi:debug] [pid 537:tid 1878238208] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.591856 2023] [wsgi:debug] [pid 537:tid 1861452800] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.592043 2023] [wsgi:debug] [pid 537:tid 1853060096] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.592173 2023] [wsgi:debug] [pid 537:tid 1962165248] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.592304 2023] [wsgi:debug] [pid 537:tid 1844667392] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.592309 2023] [wsgi:debug] [pid 537:tid 1945379840] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.592416 2023] [wsgi:debug] [pid 537:tid 1911809024] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 16:52:53.592434 2023] [wsgi:debug] [pid 537:tid 1936987136] src/server/mod_wsgi.c(9071): mod_wsgi (pid=537): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:13:15.533375 2023] [authz_core:debug] [pid 538:tid 1969222656] mod_authz_core.c(820): [client 192.168.1.80:41530] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 17:13:15.533632 2023] [authz_core:debug] [pid 538:tid 1969222656] mod_authz_core.c(820): [client 192.168.1.80:41530] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 17:13:15.535692 2023] [wsgi:info] [pid 537:tid 1928594432] [remote 192.168.1.80:41530] mod_wsgi (pid=537, process='wolapi', application=''): Loading Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:13:17.947970 2023] [wsgi:error] [pid 537:tid 1928594432] [remote 192.168.1.80:41530] mod_wsgi (pid=537): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:13:17.948320 2023] [wsgi:error] [pid 537:tid 1928594432] [remote 192.168.1.80:41530] mod_wsgi (pid=537): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:13:17.950319 2023] [wsgi:error] [pid 537:tid 1928594432] [remote 192.168.1.80:41530] Traceback (most recent call last):
+[Fri Mar 17 17:13:17.950563 2023] [wsgi:error] [pid 537:tid 1928594432] [remote 192.168.1.80:41530]   File "/home/pi/WOL_API/wsgi.py", line 13, in <module>
+[Fri Mar 17 17:13:17.950618 2023] [wsgi:error] [pid 537:tid 1928594432] [remote 192.168.1.80:41530]     from api import app as application
+[Fri Mar 17 17:13:17.950695 2023] [wsgi:error] [pid 537:tid 1928594432] [remote 192.168.1.80:41530]   File "/home/pi/WOL_API/api.py", line 16, in <module>
+[Fri Mar 17 17:13:17.950744 2023] [wsgi:error] [pid 537:tid 1928594432] [remote 192.168.1.80:41530]     serverPort = int(os.environ.get("serverPort"))
+[Fri Mar 17 17:13:17.950878 2023] [wsgi:error] [pid 537:tid 1928594432] [remote 192.168.1.80:41530] TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[Fri Mar 17 17:14:56.616345 2023] [wsgi:info] [pid 537:tid 1996362304] mod_wsgi (pid=537): Shutdown requested 'wolapi'.
+[Fri Mar 17 17:14:56.617166 2023] [wsgi:debug] [pid 537:tid 1945379840] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.617212 2023] [wsgi:info] [pid 537:tid 1996362304] mod_wsgi (pid=537): Stopping process 'wolapi'.
+[Fri Mar 17 17:14:56.617232 2023] [wsgi:debug] [pid 537:tid 1911809024] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.617345 2023] [wsgi:info] [pid 537:tid 1996362304] mod_wsgi (pid=537): Destroying interpreters.
+[Fri Mar 17 17:14:56.617487 2023] [wsgi:info] [pid 537:tid 1996362304] mod_wsgi (pid=537): Cleanup interpreter ''.
+[Fri Mar 17 17:14:56.617497 2023] [wsgi:debug] [pid 537:tid 1844667392] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.617576 2023] [wsgi:debug] [pid 537:tid 1962165248] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.617650 2023] [wsgi:debug] [pid 537:tid 1853060096] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.617726 2023] [wsgi:debug] [pid 537:tid 1861452800] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.617800 2023] [wsgi:debug] [pid 537:tid 1878238208] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.617872 2023] [wsgi:debug] [pid 537:tid 1869845504] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.617943 2023] [wsgi:debug] [pid 537:tid 1886630912] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.618016 2023] [wsgi:debug] [pid 537:tid 1953772544] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.618087 2023] [wsgi:debug] [pid 537:tid 1895023616] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.618142 2023] [wsgi:info] [pid 537:tid 1996362304] mod_wsgi (pid=537): Terminating Python.
+[Fri Mar 17 17:14:56.618161 2023] [wsgi:debug] [pid 537:tid 1903416320] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.618351 2023] [wsgi:debug] [pid 537:tid 1920201728] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.618659 2023] [wsgi:debug] [pid 537:tid 1928594432] src/server/mod_wsgi.c(9052): mod_wsgi (pid=537): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:56.857054 2023] [wsgi:info] [pid 537:tid 1996362304] mod_wsgi (pid=537): Python has shutdown.
+[Fri Mar 17 17:14:56.857229 2023] [wsgi:info] [pid 537:tid 1996362304] mod_wsgi (pid=537): Exiting process 'wolapi'.
+[Fri Mar 17 17:14:57.410780 2023] [wsgi:info] [pid 1177:tid 1995608640] mod_wsgi (pid=1177): Attach interpreter ''.
+[Fri Mar 17 17:14:57.494734 2023] [wsgi:debug] [pid 1177:tid 1961411584] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.495064 2023] [wsgi:debug] [pid 1177:tid 1953018880] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.495473 2023] [wsgi:debug] [pid 1177:tid 1944626176] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.495909 2023] [wsgi:debug] [pid 1177:tid 1927840768] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.496063 2023] [wsgi:debug] [pid 1177:tid 1911055360] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.496180 2023] [wsgi:debug] [pid 1177:tid 1902662656] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.496270 2023] [wsgi:debug] [pid 1177:tid 1885877248] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.496355 2023] [wsgi:debug] [pid 1177:tid 1877484544] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.496523 2023] [wsgi:debug] [pid 1177:tid 1869091840] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.496664 2023] [wsgi:debug] [pid 1177:tid 1860699136] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.496760 2023] [wsgi:debug] [pid 1177:tid 1919448064] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.496899 2023] [wsgi:debug] [pid 1177:tid 1894269952] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.497057 2023] [wsgi:debug] [pid 1177:tid 1936233472] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.497175 2023] [wsgi:debug] [pid 1177:tid 1843913728] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:14:57.497289 2023] [wsgi:debug] [pid 1177:tid 1852306432] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1177): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:15:01.375951 2023] [authz_core:debug] [pid 1178:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:43912] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 17:15:01.376237 2023] [authz_core:debug] [pid 1178:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:43912] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 17:15:01.378879 2023] [wsgi:info] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912] mod_wsgi (pid=1177, process='wolapi', application=''): Loading Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:15:03.498080 2023] [wsgi:error] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912] mod_wsgi (pid=1177): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:15:03.498417 2023] [wsgi:error] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912] mod_wsgi (pid=1177): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:15:03.500408 2023] [wsgi:error] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912] Traceback (most recent call last):
+[Fri Mar 17 17:15:03.500652 2023] [wsgi:error] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912]   File "/home/pi/WOL_API/wsgi.py", line 13, in <module>
+[Fri Mar 17 17:15:03.500704 2023] [wsgi:error] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912]     from api import app as application
+[Fri Mar 17 17:15:03.500780 2023] [wsgi:error] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912]   File "/home/pi/WOL_API/api.py", line 16, in <module>
+[Fri Mar 17 17:15:03.500824 2023] [wsgi:error] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912]     serverPort = int(os.environ.get("serverPort"))
+[Fri Mar 17 17:15:03.500961 2023] [wsgi:error] [pid 1177:tid 1961411584] [remote 192.168.1.80:43912] TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[Fri Mar 17 17:17:18.325537 2023] [wsgi:info] [pid 1177:tid 1995608640] mod_wsgi (pid=1177): Shutdown requested 'wolapi'.
+[Fri Mar 17 17:17:18.326386 2023] [wsgi:info] [pid 1177:tid 1995608640] mod_wsgi (pid=1177): Stopping process 'wolapi'.
+[Fri Mar 17 17:17:18.326359 2023] [wsgi:debug] [pid 1177:tid 1961411584] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.326407 2023] [wsgi:debug] [pid 1177:tid 1843913728] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.326486 2023] [wsgi:info] [pid 1177:tid 1995608640] mod_wsgi (pid=1177): Destroying interpreters.
+[Fri Mar 17 17:17:18.326598 2023] [wsgi:info] [pid 1177:tid 1995608640] mod_wsgi (pid=1177): Cleanup interpreter ''.
+[Fri Mar 17 17:17:18.326610 2023] [wsgi:debug] [pid 1177:tid 1936233472] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.326811 2023] [wsgi:debug] [pid 1177:tid 1894269952] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.327096 2023] [wsgi:debug] [pid 1177:tid 1919448064] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.327157 2023] [wsgi:info] [pid 1177:tid 1995608640] mod_wsgi (pid=1177): Terminating Python.
+[Fri Mar 17 17:17:18.327278 2023] [wsgi:debug] [pid 1177:tid 1860699136] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.327450 2023] [wsgi:debug] [pid 1177:tid 1869091840] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.327632 2023] [wsgi:debug] [pid 1177:tid 1877484544] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.327816 2023] [wsgi:debug] [pid 1177:tid 1885877248] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.327990 2023] [wsgi:debug] [pid 1177:tid 1902662656] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.328164 2023] [wsgi:debug] [pid 1177:tid 1911055360] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.328349 2023] [wsgi:debug] [pid 1177:tid 1927840768] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.328547 2023] [wsgi:debug] [pid 1177:tid 1944626176] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.328735 2023] [wsgi:debug] [pid 1177:tid 1953018880] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1177): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:18.569154 2023] [wsgi:info] [pid 1177:tid 1995608640] mod_wsgi (pid=1177): Python has shutdown.
+[Fri Mar 17 17:17:18.569330 2023] [wsgi:info] [pid 1177:tid 1995608640] mod_wsgi (pid=1177): Exiting process 'wolapi'.
+[Fri Mar 17 17:17:19.126067 2023] [wsgi:info] [pid 1326:tid 1995485760] mod_wsgi (pid=1326): Attach interpreter ''.
+[Fri Mar 17 17:17:19.211661 2023] [wsgi:debug] [pid 1326:tid 1961288704] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.212038 2023] [wsgi:debug] [pid 1326:tid 1944503296] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.212199 2023] [wsgi:debug] [pid 1326:tid 1952896000] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.212349 2023] [wsgi:debug] [pid 1326:tid 1936110592] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.212486 2023] [wsgi:debug] [pid 1326:tid 1927717888] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.212632 2023] [wsgi:debug] [pid 1326:tid 1910932480] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.212724 2023] [wsgi:debug] [pid 1326:tid 1919325184] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.212837 2023] [wsgi:debug] [pid 1326:tid 1902539776] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.213010 2023] [wsgi:debug] [pid 1326:tid 1894147072] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.213149 2023] [wsgi:debug] [pid 1326:tid 1885754368] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.213307 2023] [wsgi:debug] [pid 1326:tid 1877361664] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.213531 2023] [wsgi:debug] [pid 1326:tid 1868968960] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.213676 2023] [wsgi:debug] [pid 1326:tid 1860576256] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.213830 2023] [wsgi:debug] [pid 1326:tid 1852183552] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:19.213961 2023] [wsgi:debug] [pid 1326:tid 1843790848] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1326): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:17:55.563955 2023] [authz_core:debug] [pid 1327:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:41856] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 17:17:55.564219 2023] [authz_core:debug] [pid 1327:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:41856] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 17:17:55.566284 2023] [wsgi:info] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856] mod_wsgi (pid=1326, process='wolapi', application=''): Loading Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:17:57.682304 2023] [wsgi:error] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856] mod_wsgi (pid=1326): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:17:57.682621 2023] [wsgi:error] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856] mod_wsgi (pid=1326): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:17:57.684933 2023] [wsgi:error] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856] Traceback (most recent call last):
+[Fri Mar 17 17:17:57.685197 2023] [wsgi:error] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856]   File "/home/pi/WOL_API/wsgi.py", line 13, in <module>
+[Fri Mar 17 17:17:57.685253 2023] [wsgi:error] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856]     from api import app as application
+[Fri Mar 17 17:17:57.685331 2023] [wsgi:error] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856]   File "/home/pi/WOL_API/api.py", line 16, in <module>
+[Fri Mar 17 17:17:57.685380 2023] [wsgi:error] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856]     serverPort = int(os.environ.get("serverPort"))
+[Fri Mar 17 17:17:57.685519 2023] [wsgi:error] [pid 1326:tid 1961288704] [remote 192.168.1.80:41856] TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[Fri Mar 17 17:23:13.688596 2023] [wsgi:info] [pid 1326:tid 1995485760] mod_wsgi (pid=1326): Shutdown requested 'wolapi'.
+[Fri Mar 17 17:23:13.689264 2023] [wsgi:debug] [pid 1326:tid 1961288704] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.689330 2023] [wsgi:info] [pid 1326:tid 1995485760] mod_wsgi (pid=1326): Stopping process 'wolapi'.
+[Fri Mar 17 17:23:13.689358 2023] [wsgi:debug] [pid 1326:tid 1852183552] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.689419 2023] [wsgi:info] [pid 1326:tid 1995485760] mod_wsgi (pid=1326): Destroying interpreters.
+[Fri Mar 17 17:23:13.689487 2023] [wsgi:info] [pid 1326:tid 1995485760] mod_wsgi (pid=1326): Cleanup interpreter ''.
+[Fri Mar 17 17:23:13.689483 2023] [wsgi:debug] [pid 1326:tid 1860576256] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.689651 2023] [wsgi:debug] [pid 1326:tid 1868968960] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.689909 2023] [wsgi:debug] [pid 1326:tid 1877361664] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.690039 2023] [wsgi:info] [pid 1326:tid 1995485760] mod_wsgi (pid=1326): Terminating Python.
+[Fri Mar 17 17:23:13.690083 2023] [wsgi:debug] [pid 1326:tid 1885754368] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.690356 2023] [wsgi:debug] [pid 1326:tid 1894147072] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.690533 2023] [wsgi:debug] [pid 1326:tid 1902539776] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.690708 2023] [wsgi:debug] [pid 1326:tid 1919325184] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.690885 2023] [wsgi:debug] [pid 1326:tid 1910932480] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.691053 2023] [wsgi:debug] [pid 1326:tid 1927717888] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.691240 2023] [wsgi:debug] [pid 1326:tid 1936110592] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.691431 2023] [wsgi:debug] [pid 1326:tid 1952896000] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.691613 2023] [wsgi:debug] [pid 1326:tid 1944503296] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1326): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:13.923354 2023] [wsgi:info] [pid 1326:tid 1995485760] mod_wsgi (pid=1326): Python has shutdown.
+[Fri Mar 17 17:23:13.923533 2023] [wsgi:info] [pid 1326:tid 1995485760] mod_wsgi (pid=1326): Exiting process 'wolapi'.
+[Fri Mar 17 17:23:14.488478 2023] [wsgi:info] [pid 1500:tid 1996296768] mod_wsgi (pid=1500): Attach interpreter ''.
+[Fri Mar 17 17:23:14.574044 2023] [wsgi:debug] [pid 1500:tid 1962099712] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.574384 2023] [wsgi:debug] [pid 1500:tid 1953707008] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.574576 2023] [wsgi:debug] [pid 1500:tid 1945314304] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.574698 2023] [wsgi:debug] [pid 1500:tid 1936921600] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.574806 2023] [wsgi:debug] [pid 1500:tid 1928528896] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.574919 2023] [wsgi:debug] [pid 1500:tid 1920136192] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.575048 2023] [wsgi:debug] [pid 1500:tid 1903350784] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.575155 2023] [wsgi:debug] [pid 1500:tid 1911743488] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.575277 2023] [wsgi:debug] [pid 1500:tid 1894958080] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.575392 2023] [wsgi:debug] [pid 1500:tid 1886565376] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.575598 2023] [wsgi:debug] [pid 1500:tid 1878172672] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.575784 2023] [wsgi:debug] [pid 1500:tid 1869779968] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.575941 2023] [wsgi:debug] [pid 1500:tid 1861387264] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.576114 2023] [wsgi:debug] [pid 1500:tid 1852994560] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:14.576317 2023] [wsgi:debug] [pid 1500:tid 1844601856] src/server/mod_wsgi.c(9071): mod_wsgi (pid=1500): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 17:23:17.185385 2023] [authz_core:debug] [pid 1502:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:34436] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 17:23:17.185660 2023] [authz_core:debug] [pid 1502:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:34436] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 17:23:17.187600 2023] [wsgi:info] [pid 1500:tid 1962099712] [remote 192.168.1.80:34436] mod_wsgi (pid=1500, process='wolapi', application=''): Loading Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 17:23:34.203799 2023] [authz_core:debug] [pid 1502:tid 1928328192] mod_authz_core.c(820): [client 192.168.1.80:34450] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 17:23:34.204011 2023] [authz_core:debug] [pid 1502:tid 1928328192] mod_authz_core.c(820): [client 192.168.1.80:34450] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 18:47:54.413138 2023] [authz_core:debug] [pid 1502:tid 1907352576] mod_authz_core.c(820): [client 192.168.1.80:43976] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 18:47:54.413353 2023] [authz_core:debug] [pid 1502:tid 1907352576] mod_authz_core.c(820): [client 192.168.1.80:43976] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 18:47:54.422131 2023] [authz_core:debug] [pid 1502:tid 1915745280] mod_authz_core.c(820): [client 192.168.1.80:43976] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 18:47:54.422246 2023] [authz_core:debug] [pid 1502:tid 1915745280] mod_authz_core.c(820): [client 192.168.1.80:43976] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 18:48:00.052278 2023] [authz_core:debug] [pid 1502:tid 1882174464] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 18:48:00.052463 2023] [authz_core:debug] [pid 1502:tid 1882174464] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 18:48:00.052564 2023] [core:info] [pid 1502:tid 1882174464] [client 192.168.1.80:44434] AH00128: File does not exist: /home/pi/WOL_API/checkonline
+[Fri Mar 17 18:48:03.506746 2023] [authz_core:debug] [pid 1502:tid 1873781760] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 18:48:03.506925 2023] [authz_core:debug] [pid 1502:tid 1873781760] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 18:48:07.366933 2023] [authz_core:debug] [pid 1502:tid 1865389056] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 18:48:07.367125 2023] [authz_core:debug] [pid 1502:tid 1865389056] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 18:48:07.367228 2023] [core:info] [pid 1502:tid 1865389056] [client 192.168.1.80:44434] AH00128: File does not exist: /var/www/html/wo
+[Fri Mar 17 18:48:10.060298 2023] [authz_core:debug] [pid 1502:tid 1856996352] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 18:48:10.060478 2023] [authz_core:debug] [pid 1502:tid 1856996352] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 18:48:10.067843 2023] [deflate:debug] [pid 1502:tid 1856996352] mod_deflate.c(856): [client 192.168.1.80:44434] AH01384: Zlib: Compressed 10701 to 3023 : URL /index.html
+[Fri Mar 17 18:48:10.097992 2023] [authz_core:debug] [pid 1502:tid 1848603648] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/
+[Fri Mar 17 18:48:10.098171 2023] [authz_core:debug] [pid 1502:tid 1848603648] mod_authz_core.c(820): [client 192.168.1.80:44434] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/
+[Fri Mar 17 18:50:57.058766 2023] [wsgi:info] [pid 1500:tid 1996296768] mod_wsgi (pid=1500): Shutdown requested 'wolapi'.
+[Fri Mar 17 18:50:57.060129 2023] [wsgi:info] [pid 1500:tid 1996296768] mod_wsgi (pid=1500): Stopping process 'wolapi'.
+[Fri Mar 17 18:50:57.060237 2023] [wsgi:debug] [pid 1500:tid 1852994560] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.060341 2023] [wsgi:info] [pid 1500:tid 1996296768] mod_wsgi (pid=1500): Destroying interpreters.
+[Fri Mar 17 18:50:57.060569 2023] [wsgi:info] [pid 1500:tid 1996296768] mod_wsgi (pid=1500): Cleanup interpreter ''.
+[Fri Mar 17 18:50:57.061922 2023] [wsgi:debug] [pid 1500:tid 1861387264] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.062529 2023] [wsgi:debug] [pid 1500:tid 1869779968] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.063073 2023] [wsgi:debug] [pid 1500:tid 1878172672] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.063613 2023] [wsgi:debug] [pid 1500:tid 1886565376] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.063959 2023] [wsgi:debug] [pid 1500:tid 1894958080] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.064299 2023] [wsgi:debug] [pid 1500:tid 1911743488] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.064480 2023] [wsgi:debug] [pid 1500:tid 1903350784] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.064661 2023] [wsgi:debug] [pid 1500:tid 1920136192] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.064838 2023] [wsgi:debug] [pid 1500:tid 1928528896] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.065016 2023] [wsgi:debug] [pid 1500:tid 1936921600] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.065194 2023] [wsgi:debug] [pid 1500:tid 1945314304] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.065371 2023] [wsgi:debug] [pid 1500:tid 1953707008] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.065669 2023] [wsgi:debug] [pid 1500:tid 1844601856] src/server/mod_wsgi.c(9052): mod_wsgi (pid=1500): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.073277 2023] [wsgi:info] [pid 1500:tid 1996296768] mod_wsgi (pid=1500): Terminating Python.
+[Fri Mar 17 18:50:57.318732 2023] [wsgi:info] [pid 1500:tid 1996296768] mod_wsgi (pid=1500): Python has shutdown.
+[Fri Mar 17 18:50:57.318922 2023] [wsgi:info] [pid 1500:tid 1996296768] mod_wsgi (pid=1500): Exiting process 'wolapi'.
+[Fri Mar 17 18:50:57.620091 2023] [wsgi:info] [pid 2838:tid 1996296768] mod_wsgi (pid=2838): Attach interpreter ''.
+[Fri Mar 17 18:50:57.701673 2023] [wsgi:debug] [pid 2838:tid 1962099712] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.702017 2023] [wsgi:debug] [pid 2838:tid 1953707008] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.702193 2023] [wsgi:debug] [pid 2838:tid 1945314304] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.702439 2023] [wsgi:debug] [pid 2838:tid 1936921600] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.702560 2023] [wsgi:debug] [pid 2838:tid 1928528896] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.702678 2023] [wsgi:debug] [pid 2838:tid 1903350784] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.702774 2023] [wsgi:debug] [pid 2838:tid 1920136192] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.702891 2023] [wsgi:debug] [pid 2838:tid 1911743488] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.703004 2023] [wsgi:debug] [pid 2838:tid 1894958080] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.703115 2023] [wsgi:debug] [pid 2838:tid 1886565376] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.703239 2023] [wsgi:debug] [pid 2838:tid 1878172672] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.703343 2023] [wsgi:debug] [pid 2838:tid 1869779968] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.703456 2023] [wsgi:debug] [pid 2838:tid 1861387264] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.703596 2023] [wsgi:debug] [pid 2838:tid 1852994560] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 18:50:57.703770 2023] [wsgi:debug] [pid 2838:tid 1844601856] src/server/mod_wsgi.c(9071): mod_wsgi (pid=2838): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.318619 2023] [wsgi:info] [pid 2838:tid 1996296768] mod_wsgi (pid=2838): Shutdown requested 'wolapi'.
+[Fri Mar 17 19:26:21.319424 2023] [wsgi:info] [pid 2838:tid 1996296768] mod_wsgi (pid=2838): Stopping process 'wolapi'.
+[Fri Mar 17 19:26:21.319525 2023] [wsgi:info] [pid 2838:tid 1996296768] mod_wsgi (pid=2838): Destroying interpreters.
+[Fri Mar 17 19:26:21.319571 2023] [wsgi:info] [pid 2838:tid 1996296768] mod_wsgi (pid=2838): Cleanup interpreter ''.
+[Fri Mar 17 19:26:21.322027 2023] [wsgi:debug] [pid 2838:tid 1844601856] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323196 2023] [wsgi:debug] [pid 2838:tid 1861387264] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323352 2023] [wsgi:debug] [pid 2838:tid 1869779968] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323434 2023] [wsgi:debug] [pid 2838:tid 1878172672] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323507 2023] [wsgi:debug] [pid 2838:tid 1886565376] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323581 2023] [wsgi:debug] [pid 2838:tid 1894958080] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323654 2023] [wsgi:debug] [pid 2838:tid 1911743488] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323726 2023] [wsgi:debug] [pid 2838:tid 1920136192] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323798 2023] [wsgi:debug] [pid 2838:tid 1903350784] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.323869 2023] [wsgi:debug] [pid 2838:tid 1928528896] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.322979 2023] [wsgi:debug] [pid 2838:tid 1852994560] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.324064 2023] [wsgi:debug] [pid 2838:tid 1953707008] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.324112 2023] [wsgi:debug] [pid 2838:tid 1945314304] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.324198 2023] [wsgi:debug] [pid 2838:tid 1936921600] src/server/mod_wsgi.c(9052): mod_wsgi (pid=2838): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:21.386603 2023] [wsgi:info] [pid 2838:tid 1996296768] mod_wsgi (pid=2838): Terminating Python.
+[Fri Mar 17 19:26:21.431727 2023] [wsgi:info] [pid 2838:tid 1996296768] mod_wsgi (pid=2838): Python has shutdown.
+[Fri Mar 17 19:26:21.431896 2023] [wsgi:info] [pid 2838:tid 1996296768] mod_wsgi (pid=2838): Exiting process 'wolapi'.
+[Fri Mar 17 19:26:22.166220 2023] [wsgi:info] [pid 3621:tid 1995481664] mod_wsgi (pid=3621): Attach interpreter ''.
+[Fri Mar 17 19:26:22.248021 2023] [wsgi:debug] [pid 3621:tid 1961309184] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.248377 2023] [wsgi:debug] [pid 3621:tid 1952916480] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.248535 2023] [wsgi:debug] [pid 3621:tid 1944523776] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.248647 2023] [wsgi:debug] [pid 3621:tid 1936131072] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.248764 2023] [wsgi:debug] [pid 3621:tid 1927738368] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.248874 2023] [wsgi:debug] [pid 3621:tid 1919345664] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.248986 2023] [wsgi:debug] [pid 3621:tid 1910952960] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.249093 2023] [wsgi:debug] [pid 3621:tid 1902560256] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.249192 2023] [wsgi:debug] [pid 3621:tid 1894167552] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.249386 2023] [wsgi:debug] [pid 3621:tid 1885774848] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.249581 2023] [wsgi:debug] [pid 3621:tid 1877382144] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.249753 2023] [wsgi:debug] [pid 3621:tid 1868989440] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.249905 2023] [wsgi:debug] [pid 3621:tid 1860596736] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.250207 2023] [wsgi:debug] [pid 3621:tid 1843811328] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:22.250243 2023] [wsgi:debug] [pid 3621:tid 1852204032] src/server/mod_wsgi.c(9071): mod_wsgi (pid=3621): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 19:26:32.029239 2023] [authz_core:debug] [pid 3623:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:51448] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 19:26:32.029493 2023] [authz_core:debug] [pid 3623:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.80:51448] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 19:26:32.031441 2023] [wsgi:info] [pid 3621:tid 1961309184] [remote 192.168.1.80:51448] mod_wsgi (pid=3621, process='wolapi', application=''): Loading Python script file '/home/pi/WOL_API/wsgi.py'.
+[Fri Mar 17 21:12:41.520207 2023] [authz_core:debug] [pid 3622:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.98:42702] AH01626: authorization result of Require all granted: granted
+[Fri Mar 17 21:12:41.520469 2023] [authz_core:debug] [pid 3622:tid 1968174080] mod_authz_core.c(820): [client 192.168.1.98:42702] AH01626: authorization result of <RequireAny>: granted
+[Fri Mar 17 21:12:41.520769 2023] [core:info] [pid 3622:tid 1968174080] [client 192.168.1.98:42702] AH00128: File does not exist: /var/www/html/wol/
+[Fri Mar 17 21:12:42.398430 2023] [authz_core:debug] [pid 3622:tid 1959781376] mod_authz_core.c(820): [client 192.168.1.98:42702] AH01626: authorization result of Require all granted: granted, referer: http://192.168.1.84/wol/
+[Fri Mar 17 21:12:42.398606 2023] [authz_core:debug] [pid 3622:tid 1959781376] mod_authz_core.c(820): [client 192.168.1.98:42702] AH01626: authorization result of <RequireAny>: granted, referer: http://192.168.1.84/wol/
+[Fri Mar 17 21:12:42.398735 2023] [core:info] [pid 3622:tid 1959781376] [client 192.168.1.98:42702] AH00128: File does not exist: /var/www/html/favicon.ico, referer: http://192.168.1.84/wol/
+[Fri Mar 17 21:41:10.227320 2023] [wsgi:info] [pid 554:tid 1996141120] mod_wsgi (pid=554): Attach interpreter ''.
+[Fri Mar 17 21:41:10.357026 2023] [wsgi:debug] [pid 554:tid 1961968640] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 0 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.357426 2023] [wsgi:debug] [pid 554:tid 1945183232] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.357623 2023] [wsgi:debug] [pid 554:tid 1936790528] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.357770 2023] [wsgi:debug] [pid 554:tid 1928397824] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.357962 2023] [wsgi:debug] [pid 554:tid 1920005120] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.358071 2023] [wsgi:debug] [pid 554:tid 1911612416] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.358253 2023] [wsgi:debug] [pid 554:tid 1903219712] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.358383 2023] [wsgi:debug] [pid 554:tid 1894827008] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.359239 2023] [wsgi:debug] [pid 554:tid 1878041600] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.359459 2023] [wsgi:debug] [pid 554:tid 1852863488] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.359499 2023] [wsgi:debug] [pid 554:tid 1953575936] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.359612 2023] [wsgi:debug] [pid 554:tid 1844470784] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.359708 2023] [wsgi:debug] [pid 554:tid 1861256192] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.359805 2023] [wsgi:debug] [pid 554:tid 1869648896] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 21:41:10.360620 2023] [wsgi:debug] [pid 554:tid 1886434304] src/server/mod_wsgi.c(9071): mod_wsgi (pid=554): Started thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.678282 2023] [wsgi:info] [pid 554:tid 1996141120] mod_wsgi (pid=554): Shutdown requested 'wolapi'.
+[Fri Mar 17 22:38:22.679265 2023] [wsgi:info] [pid 554:tid 1996141120] mod_wsgi (pid=554): Stopping process 'wolapi'.
+[Fri Mar 17 22:38:22.679410 2023] [wsgi:info] [pid 554:tid 1996141120] mod_wsgi (pid=554): Destroying interpreters.
+[Fri Mar 17 22:38:22.679456 2023] [wsgi:info] [pid 554:tid 1996141120] mod_wsgi (pid=554): Cleanup interpreter ''.
+[Fri Mar 17 22:38:22.683437 2023] [wsgi:debug] [pid 554:tid 1844470784] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 14 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.683829 2023] [wsgi:debug] [pid 554:tid 1953575936] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 1 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.684012 2023] [wsgi:debug] [pid 554:tid 1869648896] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 11 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.683225 2023] [wsgi:debug] [pid 554:tid 1861256192] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 12 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.686408 2023] [wsgi:debug] [pid 554:tid 1886434304] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 9 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.686853 2023] [wsgi:debug] [pid 554:tid 1852863488] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 13 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.687079 2023] [wsgi:debug] [pid 554:tid 1878041600] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 10 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.687258 2023] [wsgi:debug] [pid 554:tid 1894827008] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 8 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.687428 2023] [wsgi:debug] [pid 554:tid 1903219712] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 7 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.687589 2023] [wsgi:debug] [pid 554:tid 1911612416] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 6 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.687749 2023] [wsgi:debug] [pid 554:tid 1920005120] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 5 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.687932 2023] [wsgi:debug] [pid 554:tid 1928397824] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 4 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.688094 2023] [wsgi:debug] [pid 554:tid 1936790528] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 3 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.688255 2023] [wsgi:debug] [pid 554:tid 1945183232] src/server/mod_wsgi.c(9052): mod_wsgi (pid=554): Exiting thread 2 in daemon process 'wolapi'.
+[Fri Mar 17 22:38:22.785655 2023] [wsgi:info] [pid 554:tid 1996141120] mod_wsgi (pid=554): Terminating Python.
+[Fri Mar 17 22:38:22.830770 2023] [wsgi:info] [pid 554:tid 1996141120] mod_wsgi (pid=554): Python has shutdown.
+[Fri Mar 17 22:38:22.830944 2023] [wsgi:info] [pid 554:tid 1996141120] mod_wsgi (pid=554): Exiting process 'wolapi'.
+[Sat Mar 18 00:36:39.482046 2023] [wsgi:error] [pid 7236:tid 1961767936] [remote 192.168.1.80:45430] mod_wsgi (pid=7236): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:36:39.482417 2023] [wsgi:error] [pid 7236:tid 1961767936] [remote 192.168.1.80:45430] mod_wsgi (pid=7236): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:36:39.483919 2023] [wsgi:error] [pid 7236:tid 1961767936] [remote 192.168.1.80:45430] Traceback (most recent call last):
+[Sat Mar 18 00:36:39.484135 2023] [wsgi:error] [pid 7236:tid 1961767936] [remote 192.168.1.80:45430]   File "/home/pi/WOL_API/wsgi.py", line 3, in <module>
+[Sat Mar 18 00:36:39.484188 2023] [wsgi:error] [pid 7236:tid 1961767936] [remote 192.168.1.80:45430]     from flaskapp import app as application
+[Sat Mar 18 00:36:39.484330 2023] [wsgi:error] [pid 7236:tid 1961767936] [remote 192.168.1.80:45430] ModuleNotFoundError: No module named 'flaskapp'
+[Sat Mar 18 00:38:24.567789 2023] [wsgi:error] [pid 7435:tid 1961767936] [remote 192.168.1.80:38018] mod_wsgi (pid=7435): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:38:24.568238 2023] [wsgi:error] [pid 7435:tid 1961767936] [remote 192.168.1.80:38018] mod_wsgi (pid=7435): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:38:24.569500 2023] [wsgi:error] [pid 7435:tid 1961767936] [remote 192.168.1.80:38018] Traceback (most recent call last):
+[Sat Mar 18 00:38:24.569679 2023] [wsgi:error] [pid 7435:tid 1961767936] [remote 192.168.1.80:38018]   File "/home/pi/WOL_API/wsgi.py", line 3, in <module>
+[Sat Mar 18 00:38:24.569728 2023] [wsgi:error] [pid 7435:tid 1961767936] [remote 192.168.1.80:38018]     from flaskapp import app as application
+[Sat Mar 18 00:38:24.569865 2023] [wsgi:error] [pid 7435:tid 1961767936] [remote 192.168.1.80:38018] ModuleNotFoundError: No module named 'flaskapp'
+[Sat Mar 18 00:39:01.553791 2023] [wsgi:error] [pid 7777:tid 1961767936] [remote 192.168.1.80:43966] mod_wsgi (pid=7777): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:39:01.554215 2023] [wsgi:error] [pid 7777:tid 1961767936] [remote 192.168.1.80:43966] mod_wsgi (pid=7777): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:39:01.555521 2023] [wsgi:error] [pid 7777:tid 1961767936] [remote 192.168.1.80:43966] Traceback (most recent call last):
+[Sat Mar 18 00:39:01.555712 2023] [wsgi:error] [pid 7777:tid 1961767936] [remote 192.168.1.80:43966]   File "/home/pi/WOL_API/wsgi.py", line 3, in <module>
+[Sat Mar 18 00:39:01.555766 2023] [wsgi:error] [pid 7777:tid 1961767936] [remote 192.168.1.80:43966]     from app import app as application
+[Sat Mar 18 00:39:01.555910 2023] [wsgi:error] [pid 7777:tid 1961767936] [remote 192.168.1.80:43966] ModuleNotFoundError: No module named 'app'
+[Sat Mar 18 00:39:52.828054 2023] [wsgi:error] [pid 8054:tid 1961767936] [remote 192.168.1.80:42280] mod_wsgi (pid=8054): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:39:52.828456 2023] [wsgi:error] [pid 8054:tid 1961767936] [remote 192.168.1.80:42280] mod_wsgi (pid=8054): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:39:52.829821 2023] [wsgi:error] [pid 8054:tid 1961767936] [remote 192.168.1.80:42280] Traceback (most recent call last):
+[Sat Mar 18 00:39:52.830057 2023] [wsgi:error] [pid 8054:tid 1961767936] [remote 192.168.1.80:42280]   File "/home/pi/WOL_API/wsgi.py", line 3, in <module>
+[Sat Mar 18 00:39:52.830124 2023] [wsgi:error] [pid 8054:tid 1961767936] [remote 192.168.1.80:42280]     from app import app as application
+[Sat Mar 18 00:39:52.830279 2023] [wsgi:error] [pid 8054:tid 1961767936] [remote 192.168.1.80:42280] ModuleNotFoundError: No module named 'app'
+[Sat Mar 18 00:40:29.837001 2023] [wsgi:error] [pid 8054:tid 1877840896] [remote 192.168.1.80:39718] mod_wsgi (pid=8054): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:40:29.837379 2023] [wsgi:error] [pid 8054:tid 1877840896] [remote 192.168.1.80:39718] mod_wsgi (pid=8054): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:40:29.837914 2023] [wsgi:error] [pid 8054:tid 1877840896] [remote 192.168.1.80:39718] Traceback (most recent call last):
+[Sat Mar 18 00:40:29.838119 2023] [wsgi:error] [pid 8054:tid 1877840896] [remote 192.168.1.80:39718]   File "/home/pi/WOL_API/wsgi.py", line 3, in <module>
+[Sat Mar 18 00:40:29.838185 2023] [wsgi:error] [pid 8054:tid 1877840896] [remote 192.168.1.80:39718]     from app import app as application
+[Sat Mar 18 00:40:29.838329 2023] [wsgi:error] [pid 8054:tid 1877840896] [remote 192.168.1.80:39718] ModuleNotFoundError: No module named 'app'
+[Sat Mar 18 00:41:02.912357 2023] [wsgi:error] [pid 8378:tid 1961767936] [remote 192.168.1.80:33902] mod_wsgi (pid=8378): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:41:02.912724 2023] [wsgi:error] [pid 8378:tid 1961767936] [remote 192.168.1.80:33902] mod_wsgi (pid=8378): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:41:02.914169 2023] [wsgi:error] [pid 8378:tid 1961767936] [remote 192.168.1.80:33902] Traceback (most recent call last):
+[Sat Mar 18 00:41:02.914394 2023] [wsgi:error] [pid 8378:tid 1961767936] [remote 192.168.1.80:33902]   File "/home/pi/WOL_API/wsgi.py", line 3, in <module>
+[Sat Mar 18 00:41:02.914443 2023] [wsgi:error] [pid 8378:tid 1961767936] [remote 192.168.1.80:33902]     from WOL_API import app as application
+[Sat Mar 18 00:41:02.914583 2023] [wsgi:error] [pid 8378:tid 1961767936] [remote 192.168.1.80:33902] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:50:40.783571 2023] [wsgi:error] [pid 9101:tid 1961767936] [remote 192.168.1.80:52284] mod_wsgi (pid=9101): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:50:40.784048 2023] [wsgi:error] [pid 9101:tid 1961767936] [remote 192.168.1.80:52284] mod_wsgi (pid=9101): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:50:40.785417 2023] [wsgi:error] [pid 9101:tid 1961767936] [remote 192.168.1.80:52284] Traceback (most recent call last):
+[Sat Mar 18 00:50:40.785610 2023] [wsgi:error] [pid 9101:tid 1961767936] [remote 192.168.1.80:52284]   File "/home/pi/WOL_API/wsgi.py", line 5, in <module>
+[Sat Mar 18 00:50:40.785663 2023] [wsgi:error] [pid 9101:tid 1961767936] [remote 192.168.1.80:52284]     from WOL_API import app as application
+[Sat Mar 18 00:50:40.785808 2023] [wsgi:error] [pid 9101:tid 1961767936] [remote 192.168.1.80:52284] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:51:37.991485 2023] [wsgi:error] [pid 9313:tid 1961767936] /usr/bin/python3
+[Sat Mar 18 00:51:37.993474 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34974] mod_wsgi (pid=9313): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:37.993830 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34974] mod_wsgi (pid=9313): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:37.995134 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34974] Traceback (most recent call last):
+[Sat Mar 18 00:51:37.995320 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34974]   File "/home/pi/WOL_API/wsgi.py", line 6, in <module>
+[Sat Mar 18 00:51:37.995374 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34974]     from WOL_API import app as application
+[Sat Mar 18 00:51:37.995524 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34974] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:51:38.841086 2023] [wsgi:error] [pid 9313:tid 1844270080] /usr/bin/python3
+[Sat Mar 18 00:51:38.842847 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:34990] mod_wsgi (pid=9313): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:38.843057 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:34990] mod_wsgi (pid=9313): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:38.843518 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:34990] Traceback (most recent call last):
+[Sat Mar 18 00:51:38.843789 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:34990]   File "/home/pi/WOL_API/wsgi.py", line 6, in <module>
+[Sat Mar 18 00:51:38.843856 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:34990]     from WOL_API import app as application
+[Sat Mar 18 00:51:38.843993 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:34990] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:51:39.278172 2023] [wsgi:error] [pid 9313:tid 1961767936] /usr/bin/python3
+[Sat Mar 18 00:51:39.279906 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34994] mod_wsgi (pid=9313): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:39.280101 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34994] mod_wsgi (pid=9313): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:39.280631 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34994] Traceback (most recent call last):
+[Sat Mar 18 00:51:39.280787 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34994]   File "/home/pi/WOL_API/wsgi.py", line 6, in <module>
+[Sat Mar 18 00:51:39.280834 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34994]     from WOL_API import app as application
+[Sat Mar 18 00:51:39.280960 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:34994] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:51:39.467769 2023] [wsgi:error] [pid 9313:tid 1844270080] /usr/bin/python3
+[Sat Mar 18 00:51:39.469485 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:35010] mod_wsgi (pid=9313): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:39.469683 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:35010] mod_wsgi (pid=9313): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:39.470137 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:35010] Traceback (most recent call last):
+[Sat Mar 18 00:51:39.470293 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:35010]   File "/home/pi/WOL_API/wsgi.py", line 6, in <module>
+[Sat Mar 18 00:51:39.470340 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:35010]     from WOL_API import app as application
+[Sat Mar 18 00:51:39.470466 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:35010] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:51:39.620796 2023] [wsgi:error] [pid 9313:tid 1961767936] /usr/bin/python3
+[Sat Mar 18 00:51:39.622483 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:35016] mod_wsgi (pid=9313): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:39.622672 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:35016] mod_wsgi (pid=9313): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:39.623130 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:35016] Traceback (most recent call last):
+[Sat Mar 18 00:51:39.623293 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:35016]   File "/home/pi/WOL_API/wsgi.py", line 6, in <module>
+[Sat Mar 18 00:51:39.623340 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:35016]     from WOL_API import app as application
+[Sat Mar 18 00:51:39.623467 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:35016] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:51:39.761967 2023] [wsgi:error] [pid 9313:tid 1844270080] /usr/bin/python3
+[Sat Mar 18 00:51:39.763757 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:42272] mod_wsgi (pid=9313): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:39.763970 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:42272] mod_wsgi (pid=9313): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:51:39.764428 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:42272] Traceback (most recent call last):
+[Sat Mar 18 00:51:39.764588 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:42272]   File "/home/pi/WOL_API/wsgi.py", line 6, in <module>
+[Sat Mar 18 00:51:39.764637 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:42272]     from WOL_API import app as application
+[Sat Mar 18 00:51:39.764768 2023] [wsgi:error] [pid 9313:tid 1844270080] [remote 192.168.1.80:42272] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:52:14.020923 2023] [wsgi:error] [pid 9313:tid 1961767936] /usr/bin/python3
+[Sat Mar 18 00:52:14.022761 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:55166] mod_wsgi (pid=9313): Failed to exec Python script file '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:52:14.023022 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:55166] mod_wsgi (pid=9313): Exception occurred processing WSGI script '/home/pi/WOL_API/wsgi.py'.
+[Sat Mar 18 00:52:14.024442 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:55166] Traceback (most recent call last):
+[Sat Mar 18 00:52:14.024648 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:55166]   File "/home/pi/WOL_API/wsgi.py", line 6, in <module>
+[Sat Mar 18 00:52:14.024695 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:55166]     from WOL_API import app as application
+[Sat Mar 18 00:52:14.024823 2023] [wsgi:error] [pid 9313:tid 1961767936] [remote 192.168.1.80:55166] ModuleNotFoundError: No module named 'WOL_API'
+[Sat Mar 18 00:59:24.723553 2023] [wsgi:error] [pid 9749:tid 1968174080] [client 192.168.1.80:34530] Truncated or oversized response headers received from daemon process 'WOL_API': /home/pi/WOL_API/wsgi.py
+[Sat Mar 18 00:59:24.724738 2023] [wsgi:error] [pid 9750:tid 1949299712] [client 192.168.1.80:50096] Truncated or oversized response headers received from daemon process 'WOL_API': /home/pi/WOL_API/wsgi.py
+[Sat Mar 18 00:59:24.725646 2023] [wsgi:error] [pid 9749:tid 1949291520] [client 192.168.1.80:50086] Truncated or oversized response headers received from daemon process 'WOL_API': /home/pi/WOL_API/wsgi.py
+[Sat Mar 18 00:59:24.726052 2023] [wsgi:error] [pid 9750:tid 1968174080] [client 192.168.1.80:56538] Truncated or oversized response headers received from daemon process 'WOL_API': /home/pi/WOL_API/wsgi.py
+[Sat Mar 18 01:02:41.170046 2023] [wsgi:error] [pid 10059:tid 1968174080] [client 192.168.1.80:48660] Truncated or oversized response headers received from daemon process 'WOL_API': /home/pi/WOL_API/wsgi.py
+[Sat Mar 18 01:02:42.919612 2023] [wsgi:error] [pid 10507:tid 1962030080] /home/pi/WOL_API/venv/bin/python
+[Sat Mar 18 10:31:34.278912 2023] [ssl:warn] [pid 1849:tid 1995850304] AH01909: abhinavs.ccnet.in/wol_api:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:31:34.351861 2023] [ssl:warn] [pid 1850:tid 1995850304] AH01909: abhinavs.ccnet.in/wol_api:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:33:25.465513 2023] [ssl:warn] [pid 1850:tid 1995850304] AH01909: abhinavs.ccnet.in/wol_api:443:0 server certificate does NOT include an ID which matches the server name
